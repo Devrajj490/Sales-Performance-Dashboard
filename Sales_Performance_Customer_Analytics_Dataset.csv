@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,State,Product Category,Product Name,Quantity,Sales,Cost,Profit
+ORD00001,2024-04-14,CUST0280,Customer_045,North,Delhi,Home & Kitchen,Water Bottle,5,11530,7113.59,4416.41
+ORD00002,2025-09-08,CUST0014,Customer_288,West,Maharashtra,Electronics,Laptop,2,4182,2592.0,1590.0
+ORD00003,2025-08-26,CUST0143,Customer_004,South,Telangana,Home & Kitchen,Cookware Set,9,33624,20716.83,12907.17
+ORD00004,2024-12-10,CUST0053,Customer_048,South,Telangana,Clothing,T-Shirt,6,15456,9221.73,6234.27
+ORD00005,2025-04-15,CUST0275,Customer_064,West,Maharashtra,Furniture,Bookshelf,6,14796,11720.48,3075.52
+ORD00006,2025-12-22,CUST0036,Customer_024,West,Maharashtra,Clothing,Jacket,5,16310,11795.48,4514.52
+ORD00007,2025-04-09,CUST0187,Customer_084,South,Tamil Nadu,Electronics,Smartphone,4,4508,2993.48,1514.52
+ORD00008,2024-06-24,CUST0274,Customer_126,East,Odisha,Furniture,Office Chair,5,4420,3238.71,1181.29
+ORD00009,2024-11-28,CUST0029,Customer_118,South,Tamil Nadu,Clothing,T-Shirt,5,24310,14972.15,9337.85
+ORD00010,2025-08-03,CUST0162,Customer_109,North,Punjab,Clothing,T-Shirt,5,4210,2581.97,1628.03
+ORD00011,2024-09-09,CUST0288,Customer_276,West,Gujarat,Home & Kitchen,Cookware Set,8,11760,7402.5,4357.5
+ORD00012,2024-05-21,CUST0261,Customer_253,East,Bihar,Home & Kitchen,Mixer Grinder,7,24997,16463.0,8534.0
+ORD00013,2025-03-08,CUST0033,Customer_198,North,Delhi,Electronics,Smartphone,3,4830,3804.22,1025.78
+ORD00014,2024-01-12,CUST0059,Customer_275,West,Rajasthan,Clothing,Jeans,9,21231,17862.14,3368.86
+ORD00015,2025-04-09,CUST0002,Customer_135,East,Bihar,Furniture,Bookshelf,2,5408,3679.76,1728.24
+ORD00016,2024-06-05,CUST0192,Customer_083,South,Telangana,Electronics,Smartphone,5,22290,16331.68,5958.32
+ORD00017,2025-01-06,CUST0158,Customer_123,North,Haryana,Furniture,Bookshelf,8,3672,2142.83,1529.17
+ORD00018,2024-03-11,CUST0273,Customer_065,North,Delhi,Home & Kitchen,Mixer Grinder,2,2002,1540.68,461.32
+ORD00019,2025-09-13,CUST0217,Customer_109,South,Telangana,Clothing,Jeans,9,14868,9359.66,5508.34
+ORD00020,2025-06-13,CUST0232,Customer_062,South,Telangana,Furniture,Desk,7,23513,16022.46,7490.54
+ORD00021,2024-08-23,CUST0113,Customer_004,South,Karnataka,Electronics,Smartphone,6,2832,2057.43,774.57
+ORD00022,2024-02-02,CUST0170,Customer_037,North,Haryana,Home & Kitchen,Cookware Set,1,2175,1240.23,934.77
+ORD00023,2025-08-07,CUST0296,Customer_243,South,Tamil Nadu,Home & Kitchen,Cookware Set,8,16440,11701.5,4738.5
+ORD00024,2025-03-17,CUST0182,Customer_217,South,Tamil Nadu,Clothing,T-Shirt,4,4288,2483.09,1804.91
+ORD00025,2024-12-13,CUST0056,Customer_128,West,Gujarat,Home & Kitchen,Water Bottle,1,1106,628.41,477.59
+ORD00026,2024-10-12,CUST0237,Customer_128,South,Karnataka,Clothing,Jacket,8,11584,7837.32,3746.68
+ORD00027,2025-07-07,CUST0008,Customer_048,North,Punjab,Clothing,Jacket,2,1428,1064.78,363.22
+ORD00028,2025-02-14,CUST0031,Customer_085,South,Karnataka,Clothing,T-Shirt,8,33944,20845.83,13098.17
+ORD00029,2025-12-14,CUST0285,Customer_250,West,Maharashtra,Clothing,T-Shirt,5,20135,12797.3,7337.7
+ORD00030,2025-07-09,CUST0032,Customer_161,South,Karnataka,Furniture,Desk,4,3116,2255.22,860.78
+ORD00031,2025-06-27,CUST0081,Customer_030,North,Delhi,Home & Kitchen,Mixer Grinder,8,35352,29194.25,6157.75
+ORD00032,2024-08-28,CUST0207,Customer_062,North,Delhi,Electronics,Smartphone,10,8560,6441.95,2118.05
+ORD00033,2025-08-20,CUST0290,Customer_268,South,Telangana,Home & Kitchen,Mixer Grinder,1,971,656.17,314.83
+ORD00034,2024-05-14,CUST0154,Customer_235,East,Odisha,Furniture,Office Chair,6,13530,8519.63,5010.37
+ORD00035,2024-03-16,CUST0276,Customer_110,East,West Bengal,Electronics,Laptop,8,39296,33355.58,5940.42
+ORD00036,2024-06-10,CUST0225,Customer_279,East,West Bengal,Furniture,Bookshelf,2,4602,3041.27,1560.73
+ORD00037,2025-07-21,CUST0154,Customer_054,East,Bihar,Home & Kitchen,Cookware Set,9,3276,2458.18,817.82
+ORD00038,2024-10-15,CUST0108,Customer_176,South,Tamil Nadu,Electronics,Smartphone,2,9664,5765.87,3898.13
+ORD00039,2024-02-22,CUST0048,Customer_217,South,Telangana,Home & Kitchen,Cookware Set,5,22200,15463.62,6736.38
+ORD00040,2024-09-25,CUST0083,Customer_227,East,West Bengal,Electronics,Laptop,6,8226,6096.57,2129.43
+ORD00041,2025-12-08,CUST0077,Customer_280,West,Rajasthan,Electronics,Laptop,2,1832,1527.0,305.0
+ORD00042,2024-02-12,CUST0158,Customer_187,North,Punjab,Home & Kitchen,Mixer Grinder,9,13617,9245.07,4371.93
+ORD00043,2025-07-27,CUST0209,Customer_080,North,Punjab,Furniture,Office Chair,4,4568,2997.08,1570.92
+ORD00044,2024-12-06,CUST0211,Customer_128,South,Karnataka,Electronics,Headphones,7,3521,2126.01,1394.99
+ORD00045,2025-04-26,CUST0114,Customer_103,East,West Bengal,Home & Kitchen,Water Bottle,2,6866,5572.79,1293.21
+ORD00046,2024-07-16,CUST0205,Customer_169,West,Gujarat,Furniture,Desk,4,8504,4737.57,3766.43
+ORD00047,2025-07-03,CUST0170,Customer_015,East,West Bengal,Furniture,Desk,6,26838,17978.87,8859.13
+ORD00048,2025-09-02,CUST0223,Customer_177,North,Punjab,Electronics,Headphones,10,24740,13890.94,10849.06
+ORD00049,2025-08-13,CUST0098,Customer_131,East,Odisha,Home & Kitchen,Mixer Grinder,9,11223,7469.56,3753.44
+ORD00050,2025-07-05,CUST0101,Customer_187,North,Haryana,Clothing,T-Shirt,1,4559,3773.36,785.64
+ORD00051,2024-05-07,CUST0154,Customer_260,West,Maharashtra,Home & Kitchen,Cookware Set,6,17226,12902.55,4323.45
+ORD00052,2025-07-21,CUST0066,Customer_099,East,Bihar,Clothing,T-Shirt,6,21576,16379.69,5196.31
+ORD00053,2025-07-15,CUST0001,Customer_156,West,Rajasthan,Clothing,T-Shirt,3,14886,9531.28,5354.72
+ORD00054,2025-03-28,CUST0110,Customer_262,East,West Bengal,Clothing,T-Shirt,10,29390,20264.3,9125.7
+ORD00055,2025-10-10,CUST0172,Customer_048,West,Rajasthan,Electronics,Headphones,2,5248,3697.93,1550.07
+ORD00056,2024-02-17,CUST0126,Customer_244,South,Telangana,Furniture,Desk,4,7724,4589.65,3134.35
+ORD00057,2025-01-28,CUST0254,Customer_205,North,Punjab,Clothing,T-Shirt,10,18920,14483.33,4436.67
+ORD00058,2024-08-12,CUST0091,Customer_266,South,Karnataka,Home & Kitchen,Cookware Set,1,1173,919.08,253.92
+ORD00059,2025-04-20,CUST0272,Customer_287,West,Maharashtra,Clothing,Jacket,4,5176,3555.59,1620.41
+ORD00060,2025-07-15,CUST0229,Customer_082,East,Odisha,Home & Kitchen,Mixer Grinder,9,34155,27295.68,6859.32
+ORD00061,2025-06-17,CUST0249,Customer_123,West,Gujarat,Furniture,Desk,4,10284,8018.89,2265.11
+ORD00062,2024-11-23,CUST0277,Customer_042,East,Odisha,Electronics,Smartphone,5,11100,7009.81,4090.19
+ORD00063,2024-03-06,CUST0213,Customer_209,South,Karnataka,Furniture,Office Chair,7,10857,8272.23,2584.77
+ORD00064,2025-03-06,CUST0200,Customer_300,East,Bihar,Clothing,Jeans,7,5670,3470.33,2199.67
+ORD00065,2024-11-01,CUST0200,Customer_215,North,Haryana,Clothing,T-Shirt,8,2784,2318.58,465.42
+ORD00066,2025-02-02,CUST0173,Customer_208,South,Tamil Nadu,Furniture,Office Chair,5,19350,13461.65,5888.35
+ORD00067,2025-02-07,CUST0289,Customer_014,South,Tamil Nadu,Electronics,Headphones,10,46750,26090.7,20659.3
+ORD00068,2024-09-23,CUST0195,Customer_168,North,Haryana,Clothing,T-Shirt,3,12246,7402.94,4843.06
+ORD00069,2025-03-07,CUST0130,Customer_042,South,Tamil Nadu,Furniture,Bookshelf,6,20430,12941.93,7488.07
+ORD00070,2024-12-24,CUST0115,Customer_036,West,Maharashtra,Home & Kitchen,Water Bottle,9,6534,5553.72,980.28
+ORD00071,2024-09-01,CUST0065,Customer_243,North,Delhi,Furniture,Office Chair,4,1864,1372.65,491.35
+ORD00072,2024-06-20,CUST0059,Customer_084,North,Haryana,Furniture,Office Chair,8,19192,14971.09,4220.91
+ORD00073,2025-01-19,CUST0204,Customer_102,East,West Bengal,Home & Kitchen,Mixer Grinder,1,2855,2063.42,791.58
+ORD00074,2024-11-04,CUST0062,Customer_290,North,Haryana,Home & Kitchen,Water Bottle,4,4536,3443.54,1092.46
+ORD00075,2025-10-25,CUST0175,Customer_007,North,Punjab,Clothing,Jacket,7,23345,13322.69,10022.31
+ORD00076,2025-04-15,CUST0079,Customer_223,West,Gujarat,Electronics,Smartphone,7,22869,16938.51,5930.49
+ORD00077,2025-04-21,CUST0224,Customer_138,South,Telangana,Clothing,Jacket,5,23540,18417.52,5122.48
+ORD00078,2025-04-20,CUST0292,Customer_195,East,West Bengal,Electronics,Smartphone,5,19960,12438.25,7521.75
+ORD00079,2024-12-29,CUST0133,Customer_175,East,West Bengal,Clothing,Jeans,6,10734,7473.71,3260.29
+ORD00080,2024-07-14,CUST0044,Customer_124,East,Bihar,Home & Kitchen,Water Bottle,5,24265,13419.65,10845.35
+ORD00081,2025-05-17,CUST0230,Customer_009,West,Gujarat,Clothing,Jacket,4,16800,12495.35,4304.65
+ORD00082,2025-08-18,CUST0189,Customer_243,North,Punjab,Furniture,Office Chair,7,16051,10302.52,5748.48
+ORD00083,2025-04-09,CUST0139,Customer_157,East,Odisha,Home & Kitchen,Water Bottle,9,27081,17752.76,9328.24
+ORD00084,2025-07-02,CUST0095,Customer_099,East,West Bengal,Electronics,Smartphone,4,11536,6758.56,4777.44
+ORD00085,2024-04-12,CUST0100,Customer_152,South,Telangana,Clothing,Jeans,5,22985,16756.92,6228.08
+ORD00086,2024-05-09,CUST0141,Customer_024,South,Tamil Nadu,Electronics,Headphones,5,2075,1581.99,493.01
+ORD00087,2024-01-13,CUST0294,Customer_146,North,Haryana,Furniture,Desk,3,12963,7528.6,5434.4
+ORD00088,2024-09-15,CUST0245,Customer_059,West,Gujarat,Clothing,Jeans,6,10860,9118.59,1741.41
+ORD00089,2025-07-30,CUST0156,Customer_044,North,Punjab,Clothing,Jeans,2,1478,880.18,597.82
+ORD00090,2025-01-24,CUST0231,Customer_227,South,Karnataka,Clothing,Jacket,7,15036,11768.8,3267.2
+ORD00091,2025-09-16,CUST0051,Customer_107,East,Bihar,Clothing,T-Shirt,5,24790,18253.08,6536.92
+ORD00092,2025-07-19,CUST0039,Customer_081,South,Tamil Nadu,Home & Kitchen,Cookware Set,2,3172,1972.86,1199.14
+ORD00093,2024-08-25,CUST0148,Customer_145,North,Punjab,Clothing,Jeans,10,41490,26444.8,15045.2
+ORD00094,2025-10-02,CUST0102,Customer_218,West,Maharashtra,Home & Kitchen,Cookware Set,4,9868,7759.69,2108.31
+ORD00095,2024-03-14,CUST0031,Customer_085,North,Haryana,Furniture,Office Chair,3,7428,5927.46,1500.54
+ORD00096,2025-04-24,CUST0156,Customer_207,East,Bihar,Home & Kitchen,Water Bottle,10,26640,18161.71,8478.29
+ORD00097,2024-02-10,CUST0222,Customer_166,East,Bihar,Clothing,Jacket,8,31088,17848.63,13239.37
+ORD00098,2025-11-19,CUST0138,Customer_296,East,West Bengal,Electronics,Smartphone,4,1876,1594.36,281.64
+ORD00099,2024-07-04,CUST0300,Customer_224,North,Delhi,Clothing,Jeans,9,35298,29114.56,6183.44
+ORD00100,2025-11-17,CUST0054,Customer_083,West,Maharashtra,Clothing,Jeans,6,21870,14215.34,7654.66
+ORD00101,2025-02-14,CUST0282,Customer_019,East,Odisha,Home & Kitchen,Water Bottle,8,21288,15939.92,5348.08
+ORD00102,2025-02-17,CUST0264,Customer_001,West,Maharashtra,Furniture,Bookshelf,5,14740,8619.61,6120.39
+ORD00103,2025-05-25,CUST0227,Customer_027,West,Gujarat,Electronics,Laptop,4,18188,11977.41,6210.59
+ORD00104,2025-12-16,CUST0249,Customer_063,South,Tamil Nadu,Clothing,Jacket,3,7977,5435.81,2541.19
+ORD00105,2024-01-15,CUST0283,Customer_209,North,Haryana,Home & Kitchen,Mixer Grinder,4,6388,4108.92,2279.08
+ORD00106,2024-06-06,CUST0256,Customer_150,North,Delhi,Electronics,Smartphone,8,10096,7514.58,2581.42
+ORD00107,2024-05-28,CUST0197,Customer_098,East,Odisha,Clothing,Jeans,8,18368,12619.48,5748.52
+ORD00108,2025-06-03,CUST0137,Customer_002,South,Karnataka,Furniture,Desk,7,21588,17923.97,3664.03
+ORD00109,2025-04-02,CUST0276,Customer_248,East,Bihar,Furniture,Desk,10,43110,34900.92,8209.08
+ORD00110,2024-11-25,CUST0097,Customer_123,East,Odisha,Clothing,Jacket,9,30510,20948.27,9561.73
+ORD00111,2025-12-23,CUST0196,Customer_198,West,Maharashtra,Clothing,T-Shirt,1,2906,2247.53,658.47
+ORD00112,2024-12-05,CUST0052,Customer_226,South,Tamil Nadu,Electronics,Laptop,3,13242,11118.06,2123.94
+ORD00113,2025-11-01,CUST0080,Customer_039,North,Haryana,Clothing,Jeans,1,1480,996.03,483.97
+ORD00114,2024-12-02,CUST0274,Customer_195,West,Gujarat,Furniture,Bookshelf,10,35560,26490.46,9069.54
+ORD00115,2024-03-11,CUST0121,Customer_148,East,Bihar,Home & Kitchen,Water Bottle,8,37856,21228.5,16627.5
+ORD00116,2025-12-21,CUST0052,Customer_228,South,Telangana,Electronics,Smartphone,7,7742,6024.13,1717.87
+ORD00117,2024-02-27,CUST0151,Customer_184,South,Telangana,Furniture,Desk,1,676,437.58,238.42
+ORD00118,2025-11-29,CUST0093,Customer_088,East,Odisha,Electronics,Headphones,4,18604,12531.94,6072.06
+ORD00119,2025-08-20,CUST0074,Customer_119,South,Karnataka,Home & Kitchen,Mixer Grinder,7,15904,11121.67,4782.33
+ORD00120,2025-04-21,CUST0148,Customer_280,West,Rajasthan,Furniture,Desk,8,19128,14347.0,4781.0
+ORD00121,2025-03-10,CUST0129,Customer_234,South,Karnataka,Clothing,Jeans,6,16500,12237.75,4262.25
+ORD00122,2025-08-08,CUST0184,Customer_295,East,West Bengal,Clothing,T-Shirt,8,9384,5828.98,3555.02
+ORD00123,2025-08-02,CUST0026,Customer_255,East,Bihar,Furniture,Desk,1,3542,2239.76,1302.24
+ORD00124,2025-09-27,CUST0129,Customer_071,East,West Bengal,Home & Kitchen,Mixer Grinder,6,12564,9309.74,3254.26
+ORD00125,2024-02-04,CUST0297,Customer_187,North,Haryana,Home & Kitchen,Cookware Set,1,2830,2226.03,603.97
+ORD00126,2024-05-15,CUST0277,Customer_188,South,Karnataka,Furniture,Desk,6,22218,13390.61,8827.39
+ORD00127,2024-12-12,CUST0059,Customer_240,East,West Bengal,Furniture,Desk,8,21736,16822.96,4913.04
+ORD00128,2025-02-08,CUST0008,Customer_136,North,Delhi,Furniture,Office Chair,7,34055,22467.19,11587.81
+ORD00129,2025-01-15,CUST0056,Customer_120,North,Punjab,Furniture,Bookshelf,5,17105,13627.98,3477.02
+ORD00130,2024-08-14,CUST0033,Customer_238,West,Maharashtra,Home & Kitchen,Mixer Grinder,9,26883,22167.1,4715.9
+ORD00131,2024-02-08,CUST0156,Customer_253,East,Bihar,Clothing,T-Shirt,2,2890,1628.82,1261.18
+ORD00132,2025-01-14,CUST0277,Customer_215,North,Delhi,Furniture,Office Chair,9,12699,8465.07,4233.93
+ORD00133,2024-10-13,CUST0017,Customer_190,South,Tamil Nadu,Home & Kitchen,Cookware Set,2,8616,6330.14,2285.86
+ORD00134,2025-12-03,CUST0189,Customer_279,South,Tamil Nadu,Clothing,Jeans,4,13084,7586.19,5497.81
+ORD00135,2025-04-10,CUST0047,Customer_109,East,West Bengal,Clothing,T-Shirt,5,9270,7791.08,1478.92
+ORD00136,2024-07-29,CUST0036,Customer_284,North,Delhi,Furniture,Bookshelf,4,5324,4185.16,1138.84
+ORD00137,2025-09-02,CUST0002,Customer_142,South,Telangana,Furniture,Office Chair,4,11964,9359.56,2604.44
+ORD00138,2024-01-27,CUST0068,Customer_008,South,Karnataka,Clothing,Jacket,5,8645,5039.84,3605.16
+ORD00139,2024-02-23,CUST0065,Customer_216,East,West Bengal,Home & Kitchen,Mixer Grinder,6,2574,1550.25,1023.75
+ORD00140,2025-06-09,CUST0056,Customer_232,North,Haryana,Electronics,Smartphone,8,31776,24893.48,6882.52
+ORD00141,2024-02-01,CUST0032,Customer_246,South,Telangana,Electronics,Laptop,9,24930,17137.2,7792.8
+ORD00142,2025-03-30,CUST0038,Customer_042,West,Gujarat,Home & Kitchen,Cookware Set,2,8632,6592.43,2039.57
+ORD00143,2025-10-10,CUST0300,Customer_281,East,Bihar,Electronics,Headphones,2,2666,1686.26,979.74
+ORD00144,2025-09-11,CUST0221,Customer_051,East,Odisha,Home & Kitchen,Mixer Grinder,9,24435,16765.21,7669.79
+ORD00145,2024-08-21,CUST0212,Customer_174,North,Haryana,Home & Kitchen,Cookware Set,9,18549,12595.16,5953.84
+ORD00146,2025-11-12,CUST0131,Customer_192,West,Gujarat,Clothing,T-Shirt,2,5720,3878.33,1841.67
+ORD00147,2024-04-05,CUST0222,Customer_050,South,Telangana,Clothing,Jeans,2,2094,1674.22,419.78
+ORD00148,2025-11-17,CUST0063,Customer_211,East,West Bengal,Clothing,Jacket,1,4900,3520.67,1379.33
+ORD00149,2024-12-26,CUST0054,Customer_296,East,Bihar,Clothing,T-Shirt,1,2656,1939.21,716.79
+ORD00150,2024-12-24,CUST0285,Customer_189,South,Karnataka,Home & Kitchen,Cookware Set,8,17096,13748.3,3347.7
+ORD00151,2025-09-28,CUST0286,Customer_014,North,Punjab,Home & Kitchen,Mixer Grinder,4,15260,12262.12,2997.88
+ORD00152,2024-12-25,CUST0004,Customer_093,East,West Bengal,Electronics,Headphones,5,14155,11698.56,2456.44
+ORD00153,2025-10-10,CUST0016,Customer_047,South,Telangana,Home & Kitchen,Cookware Set,7,6090,3608.7,2481.3
+ORD00154,2024-11-15,CUST0167,Customer_291,South,Tamil Nadu,Clothing,T-Shirt,8,24736,14772.9,9963.1
+ORD00155,2024-10-05,CUST0227,Customer_218,North,Delhi,Electronics,Headphones,3,2121,1595.4,525.6
+ORD00156,2025-06-08,CUST0059,Customer_177,West,Rajasthan,Clothing,Jeans,7,17759,10915.94,6843.06
+ORD00157,2024-11-11,CUST0024,Customer_113,West,Maharashtra,Furniture,Desk,10,42860,30348.32,12511.68
+ORD00158,2024-08-04,CUST0071,Customer_131,West,Rajasthan,Electronics,Laptop,1,1974,1264.2,709.8
+ORD00159,2024-06-28,CUST0067,Customer_195,East,Odisha,Electronics,Smartphone,1,4374,3385.93,988.07
+ORD00160,2024-02-13,CUST0224,Customer_010,South,Telangana,Clothing,Jacket,6,5340,3573.11,1766.89
+ORD00161,2025-12-27,CUST0214,Customer_149,West,Maharashtra,Furniture,Bookshelf,10,38160,27552.28,10607.72
+ORD00162,2025-09-24,CUST0236,Customer_186,North,Punjab,Electronics,Laptop,6,10242,8095.24,2146.76
+ORD00163,2025-06-20,CUST0041,Customer_203,North,Punjab,Electronics,Smartphone,4,15476,11245.81,4230.19
+ORD00164,2024-03-19,CUST0262,Customer_059,East,Bihar,Furniture,Bookshelf,4,12112,9492.6,2619.4
+ORD00165,2024-09-19,CUST0102,Customer_089,South,Tamil Nadu,Furniture,Bookshelf,3,6705,3894.54,2810.46
+ORD00166,2025-07-31,CUST0297,Customer_230,South,Telangana,Electronics,Smartphone,3,13041,8987.67,4053.33
+ORD00167,2025-03-28,CUST0156,Customer_141,East,Bihar,Furniture,Bookshelf,3,11706,6678.11,5027.89
+ORD00168,2024-02-08,CUST0030,Customer_189,North,Punjab,Clothing,Jacket,2,5684,3913.56,1770.44
+ORD00169,2025-08-17,CUST0284,Customer_022,East,West Bengal,Home & Kitchen,Cookware Set,2,8906,5925.56,2980.44
+ORD00170,2025-05-28,CUST0078,Customer_032,West,Rajasthan,Home & Kitchen,Cookware Set,4,11732,8581.98,3150.02
+ORD00171,2024-02-10,CUST0127,Customer_225,West,Maharashtra,Furniture,Bookshelf,2,8866,6594.87,2271.13
+ORD00172,2024-10-16,CUST0199,Customer_210,West,Rajasthan,Clothing,Jacket,10,16000,10546.71,5453.29
+ORD00173,2024-04-06,CUST0286,Customer_198,East,Bihar,Home & Kitchen,Mixer Grinder,1,3041,1732.68,1308.32
+ORD00174,2025-08-19,CUST0073,Customer_180,East,Odisha,Home & Kitchen,Water Bottle,10,15310,9951.63,5358.37
+ORD00175,2024-03-27,CUST0159,Customer_287,East,Bihar,Home & Kitchen,Water Bottle,7,9492,6915.04,2576.96
+ORD00176,2025-11-17,CUST0217,Customer_261,West,Rajasthan,Furniture,Bookshelf,3,13836,7997.7,5838.3
+ORD00177,2024-12-15,CUST0249,Customer_099,East,West Bengal,Furniture,Bookshelf,5,8880,7417.92,1462.08
+ORD00178,2024-04-13,CUST0260,Customer_277,South,Karnataka,Electronics,Headphones,2,5446,4374.93,1071.07
+ORD00179,2024-06-06,CUST0084,Customer_093,North,Haryana,Furniture,Bookshelf,10,13730,10011.56,3718.44
+ORD00180,2024-08-31,CUST0228,Customer_146,South,Telangana,Clothing,Jeans,1,3665,2416.3,1248.7
+ORD00181,2025-04-25,CUST0100,Customer_189,West,Maharashtra,Clothing,Jacket,4,11340,9521.96,1818.04
+ORD00182,2024-06-14,CUST0103,Customer_071,West,Gujarat,Furniture,Desk,7,30933,21907.92,9025.08
+ORD00183,2024-04-15,CUST0265,Customer_064,East,West Bengal,Home & Kitchen,Cookware Set,8,26720,19141.2,7578.8
+ORD00184,2024-05-30,CUST0224,Customer_047,East,West Bengal,Electronics,Headphones,5,19900,16349.68,3550.32
+ORD00185,2025-05-29,CUST0192,Customer_121,South,Tamil Nadu,Furniture,Bookshelf,1,3698,2092.98,1605.02
+ORD00186,2024-04-11,CUST0172,Customer_075,West,Maharashtra,Furniture,Bookshelf,4,2120,1368.68,751.32
+ORD00187,2025-04-25,CUST0230,Customer_003,South,Karnataka,Furniture,Desk,8,11488,8933.67,2554.33
+ORD00188,2025-09-15,CUST0271,Customer_217,North,Delhi,Furniture,Desk,4,6096,4356.45,1739.55
+ORD00189,2025-03-05,CUST0235,Customer_033,North,Punjab,Furniture,Office Chair,5,6490,3662.47,2827.53
+ORD00190,2025-08-11,CUST0124,Customer_074,North,Punjab,Home & Kitchen,Mixer Grinder,9,3906,2888.82,1017.18
+ORD00191,2025-03-02,CUST0096,Customer_044,East,Odisha,Electronics,Laptop,10,31900,19847.2,12052.8
+ORD00192,2025-06-03,CUST0284,Customer_011,East,West Bengal,Clothing,Jacket,9,40104,31518.68,8585.32
+ORD00193,2024-01-17,CUST0183,Customer_035,West,Gujarat,Electronics,Laptop,7,23506,14716.99,8789.01
+ORD00194,2024-12-26,CUST0280,Customer_174,East,West Bengal,Home & Kitchen,Water Bottle,2,6046,3567.28,2478.72
+ORD00195,2024-03-05,CUST0235,Customer_019,South,Telangana,Clothing,Jeans,8,14344,11381.24,2962.76
+ORD00196,2024-11-13,CUST0264,Customer_204,East,West Bengal,Electronics,Laptop,4,2572,1658.11,913.89
+ORD00197,2024-02-18,CUST0170,Customer_140,West,Gujarat,Electronics,Laptop,4,10572,6946.78,3625.22
+ORD00198,2025-01-30,CUST0174,Customer_096,North,Punjab,Clothing,T-Shirt,7,27314,22353.54,4960.46
+ORD00199,2024-03-25,CUST0218,Customer_041,West,Rajasthan,Clothing,Jeans,6,27318,17210.78,10107.22
+ORD00200,2024-03-22,CUST0168,Customer_152,West,Rajasthan,Electronics,Headphones,9,24354,15741.53,8612.47
+ORD00201,2024-12-25,CUST0229,Customer_022,East,Odisha,Home & Kitchen,Mixer Grinder,7,11655,8822.01,2832.99
+ORD00202,2025-10-14,CUST0208,Customer_187,East,Bihar,Clothing,T-Shirt,5,3845,2201.31,1643.69
+ORD00203,2024-03-09,CUST0121,Customer_188,South,Karnataka,Electronics,Headphones,10,38890,21795.5,17094.5
+ORD00204,2025-01-14,CUST0191,Customer_228,East,Odisha,Home & Kitchen,Mixer Grinder,1,1556,1172.79,383.21
+ORD00205,2025-10-27,CUST0143,Customer_128,North,Haryana,Electronics,Headphones,9,29754,19917.63,9836.37
+ORD00206,2025-07-29,CUST0061,Customer_135,North,Delhi,Home & Kitchen,Water Bottle,3,13164,9284.88,3879.12
+ORD00207,2025-05-17,CUST0103,Customer_063,East,Bihar,Clothing,Jeans,4,10556,8003.5,2552.5
+ORD00208,2025-11-29,CUST0164,Customer_178,South,Karnataka,Clothing,Jeans,3,11838,10052.58,1785.42
+ORD00209,2025-12-29,CUST0090,Customer_186,North,Haryana,Clothing,Jacket,5,13785,11102.56,2682.44
+ORD00210,2024-01-27,CUST0185,Customer_284,South,Karnataka,Furniture,Office Chair,3,6717,5287.03,1429.97
+ORD00211,2025-02-11,CUST0246,Customer_270,East,Odisha,Clothing,Jacket,3,3018,1719.43,1298.57
+ORD00212,2025-10-19,CUST0038,Customer_231,West,Gujarat,Home & Kitchen,Mixer Grinder,2,2652,2232.23,419.77
+ORD00213,2025-07-18,CUST0094,Customer_067,West,Rajasthan,Clothing,Jacket,6,8106,6593.32,1512.68
+ORD00214,2024-06-17,CUST0083,Customer_166,West,Rajasthan,Electronics,Laptop,2,9088,5415.58,3672.42
+ORD00215,2025-10-12,CUST0283,Customer_141,South,Tamil Nadu,Clothing,Jacket,5,4730,2957.11,1772.89
+ORD00216,2025-10-18,CUST0087,Customer_298,South,Telangana,Furniture,Desk,10,46700,26993.93,19706.07
+ORD00217,2025-07-31,CUST0022,Customer_015,South,Karnataka,Home & Kitchen,Cookware Set,10,30650,24604.56,6045.44
+ORD00218,2025-08-08,CUST0214,Customer_016,North,Delhi,Home & Kitchen,Cookware Set,10,24680,18394.97,6285.03
+ORD00219,2025-12-02,CUST0208,Customer_153,West,Rajasthan,Clothing,Jacket,5,13870,9638.03,4231.97
+ORD00220,2025-05-10,CUST0238,Customer_105,West,Maharashtra,Home & Kitchen,Water Bottle,1,1594,1086.92,507.08
+ORD00221,2024-12-19,CUST0205,Customer_067,East,Bihar,Electronics,Headphones,6,17490,13471.85,4018.15
+ORD00222,2024-05-05,CUST0137,Customer_231,East,Bihar,Clothing,Jacket,2,5828,3628.05,2199.95
+ORD00223,2025-09-22,CUST0215,Customer_128,South,Karnataka,Electronics,Smartphone,1,2677,2231.59,445.41
+ORD00224,2025-05-25,CUST0264,Customer_240,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,6,11130,8669.56,2460.44
+ORD00225,2025-06-01,CUST0235,Customer_124,West,Gujarat,Clothing,Jeans,1,1037,864.41,172.59
+ORD00226,2025-09-03,CUST0241,Customer_147,South,Telangana,Furniture,Bookshelf,1,714,452.97,261.03
+ORD00227,2025-02-16,CUST0188,Customer_024,North,Delhi,Clothing,T-Shirt,3,7398,5683.53,1714.47
+ORD00228,2024-10-22,CUST0038,Customer_198,West,Maharashtra,Home & Kitchen,Mixer Grinder,9,17046,11229.17,5816.83
+ORD00229,2024-04-09,CUST0202,Customer_192,West,Rajasthan,Furniture,Desk,10,12730,7492.87,5237.13
+ORD00230,2025-02-15,CUST0257,Customer_021,East,Bihar,Furniture,Bookshelf,3,5790,4230.98,1559.02
+ORD00231,2024-06-01,CUST0264,Customer_072,North,Delhi,Electronics,Headphones,6,25080,17701.46,7378.54
+ORD00232,2024-11-02,CUST0173,Customer_260,East,Bihar,Furniture,Bookshelf,3,10557,8943.73,1613.27
+ORD00233,2025-01-12,CUST0170,Customer_057,West,Rajasthan,Home & Kitchen,Mixer Grinder,5,20950,16649.48,4300.52
+ORD00234,2025-11-02,CUST0297,Customer_296,West,Rajasthan,Furniture,Desk,1,4187,2636.38,1550.62
+ORD00235,2025-10-06,CUST0195,Customer_076,South,Telangana,Electronics,Laptop,10,42350,25458.86,16891.14
+ORD00236,2024-11-17,CUST0215,Customer_078,South,Karnataka,Home & Kitchen,Mixer Grinder,2,3724,2069.36,1654.64
+ORD00237,2025-04-27,CUST0032,Customer_071,West,Rajasthan,Furniture,Office Chair,7,30870,24155.52,6714.48
+ORD00238,2024-06-26,CUST0236,Customer_273,South,Telangana,Furniture,Bookshelf,8,36832,24421.36,12410.64
+ORD00239,2024-09-09,CUST0143,Customer_286,East,Bihar,Furniture,Bookshelf,5,21330,12961.8,8368.2
+ORD00240,2025-05-15,CUST0163,Customer_246,East,West Bengal,Furniture,Desk,5,9990,7563.15,2426.85
+ORD00241,2025-11-23,CUST0279,Customer_195,East,Bihar,Home & Kitchen,Water Bottle,5,13285,7792.48,5492.52
+ORD00242,2024-03-21,CUST0178,Customer_227,West,Gujarat,Electronics,Headphones,5,3220,2048.85,1171.15
+ORD00243,2024-10-04,CUST0288,Customer_140,East,Bihar,Clothing,Jeans,4,7820,6243.37,1576.63
+ORD00244,2025-11-16,CUST0272,Customer_116,South,Karnataka,Home & Kitchen,Mixer Grinder,10,22600,14073.87,8526.13
+ORD00245,2024-04-12,CUST0071,Customer_003,South,Karnataka,Electronics,Smartphone,7,21035,16096.14,4938.86
+ORD00246,2024-10-21,CUST0165,Customer_147,South,Tamil Nadu,Home & Kitchen,Cookware Set,8,33688,25103.0,8585.0
+ORD00247,2024-02-08,CUST0090,Customer_214,North,Delhi,Home & Kitchen,Cookware Set,10,22020,15646.22,6373.78
+ORD00248,2024-10-23,CUST0020,Customer_005,South,Karnataka,Clothing,T-Shirt,8,14608,12138.99,2469.01
+ORD00249,2025-10-18,CUST0279,Customer_269,East,Bihar,Home & Kitchen,Mixer Grinder,2,6088,3868.12,2219.88
+ORD00250,2024-04-25,CUST0170,Customer_084,West,Maharashtra,Clothing,Jacket,8,20280,12327.06,7952.94
+ORD00251,2024-10-29,CUST0291,Customer_099,West,Rajasthan,Furniture,Desk,3,1245,959.88,285.12
+ORD00252,2024-03-29,CUST0206,Customer_049,South,Telangana,Home & Kitchen,Cookware Set,7,26621,18756.74,7864.26
+ORD00253,2025-01-27,CUST0121,Customer_229,South,Karnataka,Clothing,Jeans,6,13992,7724.27,6267.73
+ORD00254,2025-10-31,CUST0185,Customer_121,East,Odisha,Furniture,Desk,10,49930,27632.8,22297.2
+ORD00255,2025-12-03,CUST0258,Customer_160,North,Haryana,Electronics,Smartphone,8,22504,13455.48,9048.52
+ORD00256,2024-05-16,CUST0245,Customer_079,North,Haryana,Furniture,Desk,6,12654,7791.56,4862.44
+ORD00257,2025-04-27,CUST0276,Customer_112,West,Rajasthan,Home & Kitchen,Mixer Grinder,6,22236,16912.31,5323.69
+ORD00258,2025-12-21,CUST0186,Customer_040,South,Telangana,Home & Kitchen,Mixer Grinder,2,9208,6298.5,2909.5
+ORD00259,2024-06-02,CUST0085,Customer_168,North,Delhi,Clothing,Jacket,9,17604,12706.75,4897.25
+ORD00260,2025-06-06,CUST0229,Customer_029,West,Maharashtra,Home & Kitchen,Cookware Set,4,17216,9938.5,7277.5
+ORD00261,2025-07-26,CUST0237,Customer_158,West,Maharashtra,Clothing,Jacket,7,28294,20348.29,7945.71
+ORD00262,2024-02-16,CUST0217,Customer_177,North,Punjab,Furniture,Desk,1,2085,1508.48,576.52
+ORD00263,2025-02-22,CUST0093,Customer_070,North,Haryana,Electronics,Laptop,2,8334,4663.04,3670.96
+ORD00264,2025-11-30,CUST0277,Customer_069,West,Gujarat,Clothing,T-Shirt,8,27136,17982.86,9153.14
+ORD00265,2024-08-16,CUST0002,Customer_012,East,West Bengal,Electronics,Headphones,9,31671,22443.74,9227.26
+ORD00266,2024-08-23,CUST0127,Customer_236,East,Odisha,Home & Kitchen,Cookware Set,9,33966,24101.6,9864.4
+ORD00267,2025-11-07,CUST0215,Customer_009,East,West Bengal,Furniture,Desk,4,4896,2740.12,2155.88
+ORD00268,2025-11-19,CUST0025,Customer_126,South,Karnataka,Electronics,Smartphone,2,1150,786.52,363.48
+ORD00269,2024-02-27,CUST0072,Customer_258,North,Punjab,Clothing,Jeans,4,18884,11617.07,7266.93
+ORD00270,2025-11-19,CUST0165,Customer_122,East,West Bengal,Home & Kitchen,Water Bottle,10,29120,21060.82,8059.18
+ORD00271,2024-10-08,CUST0032,Customer_286,East,West Bengal,Home & Kitchen,Cookware Set,9,18990,12800.55,6189.45
+ORD00272,2024-12-18,CUST0196,Customer_269,South,Telangana,Home & Kitchen,Cookware Set,7,33971,23735.07,10235.93
+ORD00273,2024-07-07,CUST0276,Customer_243,East,Bihar,Clothing,T-Shirt,7,10654,6818.2,3835.8
+ORD00274,2025-07-29,CUST0212,Customer_214,South,Karnataka,Furniture,Desk,3,12279,10123.08,2155.92
+ORD00275,2024-03-21,CUST0231,Customer_190,South,Tamil Nadu,Furniture,Office Chair,5,9825,6377.2,3447.8
+ORD00276,2025-11-20,CUST0021,Customer_038,North,Haryana,Home & Kitchen,Water Bottle,4,2888,1821.0,1067.0
+ORD00277,2024-12-06,CUST0156,Customer_008,South,Telangana,Home & Kitchen,Water Bottle,9,18693,12969.54,5723.46
+ORD00278,2025-12-13,CUST0105,Customer_204,South,Karnataka,Home & Kitchen,Water Bottle,2,8446,6962.31,1483.69
+ORD00279,2025-10-26,CUST0184,Customer_158,South,Telangana,Furniture,Bookshelf,5,17090,11789.97,5300.03
+ORD00280,2025-04-25,CUST0164,Customer_105,East,Odisha,Clothing,Jacket,8,32936,19089.13,13846.87
+ORD00281,2024-05-29,CUST0009,Customer_134,East,Odisha,Clothing,T-Shirt,1,4908,3971.68,936.32
+ORD00282,2025-08-06,CUST0126,Customer_256,West,Gujarat,Electronics,Headphones,4,12008,7433.02,4574.98
+ORD00283,2024-12-26,CUST0087,Customer_072,East,Odisha,Clothing,Jeans,8,32600,19575.33,13024.67
+ORD00284,2024-03-17,CUST0025,Customer_004,West,Maharashtra,Clothing,Jacket,1,4592,2572.2,2019.8
+ORD00285,2024-01-10,CUST0112,Customer_259,West,Maharashtra,Home & Kitchen,Cookware Set,4,3424,2609.6,814.4
+ORD00286,2024-01-17,CUST0004,Customer_273,West,Gujarat,Electronics,Laptop,10,42580,31840.7,10739.3
+ORD00287,2024-10-20,CUST0009,Customer_258,West,Maharashtra,Electronics,Laptop,9,22950,16311.06,6638.94
+ORD00288,2024-07-15,CUST0270,Customer_130,West,Maharashtra,Electronics,Smartphone,2,9190,5465.01,3724.99
+ORD00289,2025-04-15,CUST0290,Customer_125,East,Odisha,Clothing,T-Shirt,2,6712,5623.24,1088.76
+ORD00290,2025-01-23,CUST0194,Customer_283,South,Tamil Nadu,Home & Kitchen,Cookware Set,2,1118,646.26,471.74
+ORD00291,2025-03-20,CUST0170,Customer_290,West,Maharashtra,Home & Kitchen,Cookware Set,1,1703,978.89,724.11
+ORD00292,2025-12-09,CUST0291,Customer_244,North,Haryana,Electronics,Laptop,4,8124,6664.78,1459.22
+ORD00293,2024-02-03,CUST0092,Customer_162,East,West Bengal,Electronics,Smartphone,5,23740,17070.32,6669.68
+ORD00294,2024-11-02,CUST0084,Customer_289,North,Delhi,Home & Kitchen,Mixer Grinder,3,10686,8855.09,1830.91
+ORD00295,2024-05-23,CUST0041,Customer_257,South,Telangana,Clothing,T-Shirt,9,27153,18060.92,9092.08
+ORD00296,2024-12-14,CUST0204,Customer_168,East,West Bengal,Electronics,Smartphone,7,15407,12350.29,3056.71
+ORD00297,2025-07-20,CUST0193,Customer_222,North,Haryana,Furniture,Desk,8,34552,21368.39,13183.61
+ORD00298,2024-10-29,CUST0127,Customer_038,South,Telangana,Home & Kitchen,Mixer Grinder,7,7014,5482.49,1531.51
+ORD00299,2024-11-20,CUST0185,Customer_055,North,Punjab,Electronics,Headphones,7,10941,8445.32,2495.68
+ORD00300,2024-04-14,CUST0068,Customer_045,North,Delhi,Furniture,Desk,8,25984,20226.05,5757.95
+ORD00301,2024-04-15,CUST0014,Customer_046,South,Tamil Nadu,Clothing,Jeans,9,43596,30679.91,12916.09
+ORD00302,2024-01-13,CUST0150,Customer_212,East,Bihar,Electronics,Smartphone,10,29570,23925.54,5644.46
+ORD00303,2024-06-22,CUST0195,Customer_087,West,Maharashtra,Home & Kitchen,Water Bottle,9,20592,14858.94,5733.06
+ORD00304,2024-06-20,CUST0223,Customer_142,South,Tamil Nadu,Furniture,Desk,5,21695,12882.07,8812.93
+ORD00305,2024-09-09,CUST0254,Customer_101,West,Gujarat,Clothing,Jeans,2,6516,4075.82,2440.18
+ORD00306,2024-12-06,CUST0195,Customer_169,West,Maharashtra,Electronics,Headphones,5,1775,1481.5,293.5
+ORD00307,2025-09-09,CUST0103,Customer_246,West,Gujarat,Clothing,T-Shirt,10,14150,9057.85,5092.15
+ORD00308,2025-10-10,CUST0252,Customer_295,East,West Bengal,Clothing,T-Shirt,6,16122,12421.39,3700.61
+ORD00309,2025-07-31,CUST0103,Customer_280,South,Tamil Nadu,Clothing,T-Shirt,5,17590,11600.69,5989.31
+ORD00310,2024-08-02,CUST0225,Customer_150,South,Telangana,Clothing,Jacket,1,4081,3399.03,681.97
+ORD00311,2024-09-04,CUST0130,Customer_079,North,Punjab,Home & Kitchen,Cookware Set,8,11520,8524.81,2995.19
+ORD00312,2025-07-01,CUST0260,Customer_215,West,Gujarat,Electronics,Smartphone,8,33800,24493.95,9306.05
+ORD00313,2024-09-11,CUST0182,Customer_086,North,Punjab,Home & Kitchen,Water Bottle,9,8964,5224.32,3739.68
+ORD00314,2025-03-16,CUST0055,Customer_006,North,Haryana,Home & Kitchen,Cookware Set,7,21112,17728.06,3383.94
+ORD00315,2025-12-05,CUST0295,Customer_114,North,Punjab,Furniture,Office Chair,9,40941,29370.99,11570.01
+ORD00316,2024-01-26,CUST0248,Customer_054,West,Gujarat,Clothing,T-Shirt,8,35192,20947.1,14244.9
+ORD00317,2024-12-17,CUST0234,Customer_106,East,Odisha,Electronics,Smartphone,2,2920,1911.14,1008.86
+ORD00318,2025-04-08,CUST0164,Customer_035,West,Gujarat,Clothing,Jeans,2,7778,5962.6,1815.4
+ORD00319,2025-10-25,CUST0056,Customer_085,East,West Bengal,Home & Kitchen,Water Bottle,2,970,780.61,189.39
+ORD00320,2025-03-12,CUST0237,Customer_119,South,Telangana,Electronics,Headphones,9,14499,9414.16,5084.84
+ORD00321,2025-09-20,CUST0102,Customer_231,West,Rajasthan,Electronics,Headphones,3,11520,7703.13,3816.87
+ORD00322,2025-12-21,CUST0033,Customer_296,West,Gujarat,Electronics,Laptop,4,7940,5030.02,2909.98
+ORD00323,2024-04-26,CUST0135,Customer_251,North,Haryana,Electronics,Headphones,6,17820,10854.56,6965.44
+ORD00324,2024-12-22,CUST0181,Customer_235,East,Bihar,Clothing,T-Shirt,10,35150,25522.46,9627.54
+ORD00325,2024-11-16,CUST0061,Customer_123,South,Telangana,Home & Kitchen,Water Bottle,5,4970,3735.62,1234.38
+ORD00326,2025-03-04,CUST0071,Customer_295,East,West Bengal,Electronics,Headphones,6,8748,6152.01,2595.99
+ORD00327,2025-10-22,CUST0089,Customer_285,West,Gujarat,Electronics,Headphones,8,37616,28514.05,9101.95
+ORD00328,2025-04-06,CUST0028,Customer_184,South,Tamil Nadu,Furniture,Desk,3,5496,3541.48,1954.52
+ORD00329,2025-06-01,CUST0254,Customer_210,North,Punjab,Electronics,Headphones,4,13780,11563.47,2216.53
+ORD00330,2025-08-01,CUST0016,Customer_113,West,Gujarat,Home & Kitchen,Water Bottle,8,34424,20660.46,13763.54
+ORD00331,2025-04-13,CUST0290,Customer_254,East,West Bengal,Furniture,Desk,4,18816,11978.29,6837.71
+ORD00332,2025-01-10,CUST0278,Customer_022,North,Haryana,Electronics,Smartphone,5,23745,18924.41,4820.59
+ORD00333,2025-10-31,CUST0127,Customer_153,West,Rajasthan,Furniture,Office Chair,7,7966,6140.17,1825.83
+ORD00334,2024-04-30,CUST0122,Customer_108,North,Punjab,Furniture,Desk,6,6072,4139.41,1932.59
+ORD00335,2024-07-30,CUST0106,Customer_031,East,Bihar,Home & Kitchen,Mixer Grinder,7,11613,8533.76,3079.24
+ORD00336,2025-12-21,CUST0150,Customer_149,East,Bihar,Furniture,Desk,10,47130,28302.19,18827.81
+ORD00337,2025-02-25,CUST0031,Customer_142,East,Bihar,Home & Kitchen,Cookware Set,2,2820,2365.51,454.49
+ORD00338,2024-09-10,CUST0202,Customer_251,South,Telangana,Electronics,Headphones,4,5992,4574.4,1417.6
+ORD00339,2024-03-18,CUST0048,Customer_207,South,Telangana,Home & Kitchen,Cookware Set,5,18465,12234.02,6230.98
+ORD00340,2024-01-03,CUST0048,Customer_235,East,Bihar,Furniture,Bookshelf,8,34384,22287.25,12096.75
+ORD00341,2024-08-04,CUST0254,Customer_138,East,West Bengal,Clothing,Jacket,7,14588,12260.32,2327.68
+ORD00342,2025-05-11,CUST0176,Customer_025,East,Odisha,Furniture,Bookshelf,9,12321,8869.18,3451.82
+ORD00343,2024-06-10,CUST0226,Customer_234,North,Delhi,Home & Kitchen,Cookware Set,8,3464,2034.31,1429.69
+ORD00344,2024-10-07,CUST0048,Customer_185,North,Punjab,Furniture,Office Chair,3,8316,4970.42,3345.58
+ORD00345,2024-11-08,CUST0120,Customer_220,East,West Bengal,Furniture,Bookshelf,3,2172,1452.86,719.14
+ORD00346,2024-05-15,CUST0116,Customer_266,North,Haryana,Electronics,Smartphone,1,2048,1419.35,628.65
+ORD00347,2025-03-08,CUST0068,Customer_245,West,Maharashtra,Electronics,Laptop,6,7722,6536.26,1185.74
+ORD00348,2025-01-11,CUST0154,Customer_071,North,Delhi,Clothing,T-Shirt,2,2278,1323.43,954.57
+ORD00349,2024-01-09,CUST0085,Customer_226,West,Maharashtra,Home & Kitchen,Cookware Set,3,2580,1829.61,750.39
+ORD00350,2025-03-29,CUST0112,Customer_045,East,Bihar,Furniture,Office Chair,3,11016,8094.81,2921.19
+ORD00351,2025-03-15,CUST0162,Customer_072,North,Delhi,Electronics,Smartphone,10,34450,22580.62,11869.38
+ORD00352,2025-09-06,CUST0146,Customer_014,South,Tamil Nadu,Home & Kitchen,Cookware Set,2,4664,3339.51,1324.49
+ORD00353,2025-02-05,CUST0152,Customer_028,East,West Bengal,Clothing,Jacket,10,44740,27139.01,17600.99
+ORD00354,2025-08-31,CUST0037,Customer_271,South,Tamil Nadu,Clothing,T-Shirt,2,4548,3183.03,1364.97
+ORD00355,2025-08-05,CUST0216,Customer_188,North,Punjab,Furniture,Bookshelf,3,10404,8408.97,1995.03
+ORD00356,2024-08-08,CUST0021,Customer_031,South,Tamil Nadu,Electronics,Smartphone,1,853,472.68,380.32
+ORD00357,2025-02-15,CUST0043,Customer_275,West,Rajasthan,Furniture,Desk,9,33327,22564.8,10762.2
+ORD00358,2024-07-27,CUST0080,Customer_275,South,Tamil Nadu,Electronics,Smartphone,5,4735,3330.56,1404.44
+ORD00359,2024-09-01,CUST0030,Customer_126,East,Odisha,Home & Kitchen,Mixer Grinder,2,5680,4314.54,1365.46
+ORD00360,2025-11-04,CUST0090,Customer_062,North,Punjab,Electronics,Smartphone,8,6000,3856.72,2143.28
+ORD00361,2024-12-21,CUST0268,Customer_265,North,Haryana,Electronics,Headphones,1,1642,1147.63,494.37
+ORD00362,2024-04-30,CUST0016,Customer_172,East,West Bengal,Furniture,Bookshelf,3,7503,5776.42,1726.58
+ORD00363,2025-08-13,CUST0040,Customer_255,West,Gujarat,Clothing,Jacket,2,4908,3748.22,1159.78
+ORD00364,2024-06-19,CUST0189,Customer_081,West,Rajasthan,Furniture,Bookshelf,1,4392,3547.89,844.11
+ORD00365,2024-01-03,CUST0023,Customer_007,East,West Bengal,Home & Kitchen,Mixer Grinder,2,4342,3353.04,988.96
+ORD00366,2024-07-02,CUST0019,Customer_284,South,Karnataka,Clothing,Jeans,6,20622,17035.17,3586.83
+ORD00367,2024-11-23,CUST0139,Customer_040,West,Maharashtra,Furniture,Bookshelf,4,14836,12236.09,2599.91
+ORD00368,2025-06-12,CUST0024,Customer_206,East,West Bengal,Clothing,Jacket,1,1769,1091.39,677.61
+ORD00369,2025-04-12,CUST0005,Customer_189,North,Punjab,Furniture,Desk,5,14905,8584.02,6320.98
+ORD00370,2025-08-28,CUST0253,Customer_101,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,5,11435,7880.75,3554.25
+ORD00371,2024-12-20,CUST0005,Customer_172,South,Karnataka,Electronics,Laptop,7,3465,2147.95,1317.05
+ORD00372,2024-08-31,CUST0215,Customer_252,North,Haryana,Clothing,T-Shirt,5,5755,3519.52,2235.48
+ORD00373,2024-08-25,CUST0267,Customer_212,North,Delhi,Home & Kitchen,Water Bottle,5,5310,2990.43,2319.57
+ORD00374,2025-10-14,CUST0202,Customer_039,East,Odisha,Home & Kitchen,Water Bottle,2,2164,1518.32,645.68
+ORD00375,2024-11-18,CUST0202,Customer_168,North,Punjab,Home & Kitchen,Cookware Set,3,6717,4282.11,2434.89
+ORD00376,2024-05-19,CUST0300,Customer_056,East,Odisha,Furniture,Desk,4,3644,3035.69,608.31
+ORD00377,2024-05-03,CUST0275,Customer_184,South,Karnataka,Electronics,Headphones,8,32936,21217.7,11718.3
+ORD00378,2024-04-02,CUST0081,Customer_156,South,Tamil Nadu,Furniture,Desk,8,19760,15921.51,3838.49
+ORD00379,2024-12-30,CUST0203,Customer_263,North,Delhi,Furniture,Bookshelf,3,3141,2397.67,743.33
+ORD00380,2025-02-18,CUST0232,Customer_285,North,Haryana,Furniture,Desk,5,8620,4821.38,3798.62
+ORD00381,2024-03-04,CUST0114,Customer_067,South,Karnataka,Clothing,Jeans,2,2890,1694.8,1195.2
+ORD00382,2024-03-17,CUST0012,Customer_034,South,Tamil Nadu,Furniture,Bookshelf,2,4840,3994.11,845.89
+ORD00383,2024-12-05,CUST0063,Customer_022,South,Telangana,Clothing,Jeans,3,3159,2595.19,563.81
+ORD00384,2025-02-08,CUST0255,Customer_016,West,Maharashtra,Electronics,Headphones,10,38480,30649.54,7830.46
+ORD00385,2024-07-10,CUST0141,Customer_144,West,Rajasthan,Clothing,T-Shirt,3,9597,5896.54,3700.46
+ORD00386,2025-05-25,CUST0211,Customer_282,West,Maharashtra,Electronics,Laptop,10,23130,17212.96,5917.04
+ORD00387,2024-07-23,CUST0270,Customer_128,West,Maharashtra,Electronics,Smartphone,5,17185,10159.27,7025.73
+ORD00388,2025-05-11,CUST0177,Customer_290,North,Punjab,Home & Kitchen,Water Bottle,6,25374,18100.68,7273.32
+ORD00389,2024-08-12,CUST0016,Customer_144,East,Odisha,Furniture,Desk,3,1539,993.68,545.32
+ORD00390,2024-04-12,CUST0127,Customer_124,North,Punjab,Clothing,Jacket,6,13236,11147.28,2088.72
+ORD00391,2025-02-01,CUST0182,Customer_089,East,Bihar,Home & Kitchen,Water Bottle,1,2097,1515.52,581.48
+ORD00392,2024-01-29,CUST0181,Customer_291,South,Karnataka,Home & Kitchen,Mixer Grinder,6,19434,16017.39,3416.61
+ORD00393,2025-05-17,CUST0020,Customer_047,South,Telangana,Furniture,Office Chair,8,37928,24376.93,13551.07
+ORD00394,2024-01-01,CUST0170,Customer_104,North,Delhi,Home & Kitchen,Mixer Grinder,4,1852,1311.09,540.91
+ORD00395,2024-05-31,CUST0073,Customer_057,South,Tamil Nadu,Home & Kitchen,Water Bottle,3,8850,5025.62,3824.38
+ORD00396,2024-11-26,CUST0070,Customer_081,East,West Bengal,Furniture,Bookshelf,7,7889,5135.49,2753.51
+ORD00397,2025-07-29,CUST0183,Customer_115,West,Rajasthan,Clothing,Jeans,6,10362,7897.45,2464.55
+ORD00398,2024-01-02,CUST0294,Customer_201,South,Tamil Nadu,Furniture,Desk,5,6715,4051.24,2663.76
+ORD00399,2024-04-16,CUST0255,Customer_073,North,Delhi,Home & Kitchen,Mixer Grinder,6,12654,9387.93,3266.07
+ORD00400,2024-06-20,CUST0046,Customer_172,East,Bihar,Electronics,Smartphone,4,12564,10612.99,1951.01
+ORD00401,2024-12-24,CUST0132,Customer_056,West,Maharashtra,Furniture,Desk,4,9376,7106.57,2269.43
+ORD00402,2025-02-27,CUST0253,Customer_194,North,Delhi,Clothing,T-Shirt,8,29896,25134.48,4761.52
+ORD00403,2025-08-14,CUST0116,Customer_084,East,Bihar,Clothing,T-Shirt,2,8454,6650.08,1803.92
+ORD00404,2024-04-17,CUST0038,Customer_176,West,Maharashtra,Electronics,Laptop,5,2320,1497.83,822.17
+ORD00405,2024-04-05,CUST0174,Customer_248,South,Tamil Nadu,Electronics,Headphones,2,9562,7960.85,1601.15
+ORD00406,2024-04-13,CUST0170,Customer_106,North,Punjab,Home & Kitchen,Cookware Set,3,11568,6907.61,4660.39
+ORD00407,2024-10-15,CUST0153,Customer_122,South,Tamil Nadu,Home & Kitchen,Water Bottle,9,42516,26767.2,15748.8
+ORD00408,2024-06-06,CUST0028,Customer_185,North,Delhi,Clothing,T-Shirt,10,48020,38509.94,9510.06
+ORD00409,2024-01-27,CUST0106,Customer_088,North,Punjab,Electronics,Smartphone,5,21170,12911.63,8258.37
+ORD00410,2025-04-27,CUST0251,Customer_136,East,West Bengal,Clothing,Jeans,2,5652,4439.44,1212.56
+ORD00411,2025-01-25,CUST0190,Customer_096,North,Haryana,Clothing,Jacket,7,12698,8397.27,4300.73
+ORD00412,2024-10-02,CUST0289,Customer_032,West,Maharashtra,Furniture,Desk,8,32872,20677.15,12194.85
+ORD00413,2025-07-08,CUST0212,Customer_117,South,Telangana,Home & Kitchen,Cookware Set,2,2004,1503.89,500.11
+ORD00414,2025-05-01,CUST0294,Customer_121,North,Punjab,Clothing,Jacket,7,32802,24802.26,7999.74
+ORD00415,2025-06-13,CUST0293,Customer_076,West,Gujarat,Electronics,Smartphone,7,4088,2864.18,1223.82
+ORD00416,2024-05-09,CUST0022,Customer_217,North,Punjab,Electronics,Headphones,3,6105,4838.45,1266.55
+ORD00417,2024-09-21,CUST0164,Customer_035,North,Haryana,Clothing,T-Shirt,4,6044,4836.6,1207.4
+ORD00418,2024-10-09,CUST0267,Customer_235,North,Punjab,Clothing,Jacket,7,33754,21867.13,11886.87
+ORD00419,2024-04-25,CUST0213,Customer_077,North,Haryana,Home & Kitchen,Mixer Grinder,10,45800,35930.36,9869.64
+ORD00420,2025-07-30,CUST0052,Customer_147,South,Telangana,Home & Kitchen,Mixer Grinder,10,11200,9267.76,1932.24
+ORD00421,2025-04-29,CUST0020,Customer_089,East,Odisha,Furniture,Desk,7,29939,21604.19,8334.81
+ORD00422,2024-12-05,CUST0122,Customer_026,East,Odisha,Electronics,Headphones,10,35900,20162.69,15737.31
+ORD00423,2024-11-06,CUST0160,Customer_144,West,Gujarat,Furniture,Bookshelf,1,3067,2438.93,628.07
+ORD00424,2025-03-29,CUST0165,Customer_138,West,Rajasthan,Home & Kitchen,Cookware Set,2,4334,2558.43,1775.57
+ORD00425,2025-02-20,CUST0249,Customer_265,West,Rajasthan,Home & Kitchen,Cookware Set,2,3678,2510.29,1167.71
+ORD00426,2025-06-02,CUST0207,Customer_070,East,West Bengal,Clothing,Jacket,3,2511,1615.42,895.58
+ORD00427,2025-04-12,CUST0026,Customer_185,North,Delhi,Furniture,Office Chair,4,3088,1929.53,1158.47
+ORD00428,2024-05-06,CUST0016,Customer_124,South,Tamil Nadu,Furniture,Bookshelf,8,35496,23749.76,11746.24
+ORD00429,2025-04-30,CUST0283,Customer_180,East,Odisha,Home & Kitchen,Mixer Grinder,8,14032,11761.01,2270.99
+ORD00430,2024-02-20,CUST0084,Customer_293,East,West Bengal,Furniture,Desk,2,5270,2941.9,2328.1
+ORD00431,2025-02-23,CUST0263,Customer_011,South,Karnataka,Home & Kitchen,Cookware Set,4,7972,5028.14,2943.86
+ORD00432,2025-09-14,CUST0157,Customer_141,North,Punjab,Electronics,Headphones,3,1107,683.16,423.84
+ORD00433,2024-11-05,CUST0267,Customer_204,West,Gujarat,Furniture,Bookshelf,8,18912,11639.63,7272.37
+ORD00434,2025-09-15,CUST0145,Customer_153,North,Delhi,Clothing,Jacket,6,29394,21875.09,7518.91
+ORD00435,2024-10-10,CUST0134,Customer_153,North,Punjab,Electronics,Smartphone,6,15384,11417.67,3966.33
+ORD00436,2025-09-06,CUST0207,Customer_164,South,Karnataka,Clothing,Jacket,4,3060,2422.38,637.62
+ORD00437,2025-03-04,CUST0208,Customer_199,South,Telangana,Electronics,Laptop,8,21768,13666.56,8101.44
+ORD00438,2025-12-31,CUST0114,Customer_274,North,Haryana,Home & Kitchen,Water Bottle,10,18550,12112.22,6437.78
+ORD00439,2025-11-04,CUST0286,Customer_093,West,Rajasthan,Furniture,Bookshelf,9,24831,19954.83,4876.17
+ORD00440,2025-07-26,CUST0094,Customer_172,East,West Bengal,Clothing,Jeans,3,7254,5567.85,1686.15
+ORD00441,2024-12-05,CUST0191,Customer_134,North,Delhi,Furniture,Bookshelf,4,11260,7613.36,3646.64
+ORD00442,2025-08-20,CUST0298,Customer_037,East,Odisha,Electronics,Smartphone,8,5912,4788.24,1123.76
+ORD00443,2025-02-27,CUST0028,Customer_078,West,Maharashtra,Clothing,Jacket,2,6852,4857.74,1994.26
+ORD00444,2025-04-13,CUST0074,Customer_162,South,Karnataka,Furniture,Bookshelf,7,34748,28418.77,6329.23
+ORD00445,2024-02-29,CUST0003,Customer_232,South,Karnataka,Clothing,Jeans,6,10488,6754.53,3733.47
+ORD00446,2024-03-31,CUST0067,Customer_223,East,West Bengal,Electronics,Headphones,10,15970,11129.06,4840.94
+ORD00447,2025-06-30,CUST0103,Customer_192,West,Gujarat,Clothing,T-Shirt,8,27520,15174.55,12345.45
+ORD00448,2025-10-03,CUST0128,Customer_116,North,Punjab,Clothing,Jacket,4,1784,1343.4,440.6
+ORD00449,2024-11-09,CUST0086,Customer_034,East,Odisha,Electronics,Headphones,2,6884,4825.69,2058.31
+ORD00450,2024-12-11,CUST0223,Customer_069,North,Punjab,Furniture,Desk,8,36496,26602.33,9893.67
+ORD00451,2025-02-17,CUST0010,Customer_117,East,Odisha,Furniture,Bookshelf,4,6600,5507.21,1092.79
+ORD00452,2024-06-22,CUST0064,Customer_188,South,Telangana,Electronics,Headphones,4,1916,1392.76,523.24
+ORD00453,2025-08-31,CUST0025,Customer_056,North,Punjab,Home & Kitchen,Cookware Set,5,23400,17244.41,6155.59
+ORD00454,2024-05-06,CUST0281,Customer_130,North,Delhi,Home & Kitchen,Water Bottle,2,7428,5075.51,2352.49
+ORD00455,2025-11-08,CUST0052,Customer_267,West,Rajasthan,Electronics,Headphones,4,1504,963.06,540.94
+ORD00456,2024-04-17,CUST0262,Customer_061,East,Bihar,Home & Kitchen,Mixer Grinder,3,11193,8945.4,2247.6
+ORD00457,2024-09-26,CUST0268,Customer_104,East,West Bengal,Electronics,Smartphone,8,15416,11295.31,4120.69
+ORD00458,2025-05-23,CUST0107,Customer_247,East,Bihar,Clothing,T-Shirt,5,8065,4531.09,3533.91
+ORD00459,2025-08-10,CUST0253,Customer_077,East,West Bengal,Electronics,Laptop,1,1029,845.9,183.1
+ORD00460,2025-04-12,CUST0152,Customer_136,North,Haryana,Electronics,Smartphone,2,4792,3561.9,1230.1
+ORD00461,2025-01-03,CUST0161,Customer_219,West,Maharashtra,Electronics,Smartphone,3,1869,1505.81,363.19
+ORD00462,2024-06-23,CUST0169,Customer_184,North,Delhi,Electronics,Laptop,1,1433,1073.33,359.67
+ORD00463,2024-07-06,CUST0059,Customer_206,West,Rajasthan,Furniture,Desk,2,6704,5326.26,1377.74
+ORD00464,2025-10-26,CUST0086,Customer_058,West,Gujarat,Furniture,Desk,7,29519,23319.12,6199.88
+ORD00465,2025-08-27,CUST0248,Customer_292,South,Telangana,Home & Kitchen,Water Bottle,1,1605,932.69,672.31
+ORD00466,2025-12-01,CUST0067,Customer_248,West,Maharashtra,Home & Kitchen,Mixer Grinder,7,22659,16618.28,6040.72
+ORD00467,2025-11-01,CUST0161,Customer_007,West,Maharashtra,Clothing,T-Shirt,8,5408,3077.16,2330.84
+ORD00468,2025-09-25,CUST0049,Customer_222,South,Telangana,Furniture,Bookshelf,9,41265,31215.84,10049.16
+ORD00469,2025-07-25,CUST0028,Customer_006,South,Tamil Nadu,Furniture,Bookshelf,7,10619,8513.36,2105.64
+ORD00470,2025-05-18,CUST0165,Customer_124,South,Telangana,Clothing,Jeans,8,13232,7574.79,5657.21
+ORD00471,2025-01-22,CUST0207,Customer_121,East,Odisha,Electronics,Laptop,9,19116,13670.78,5445.22
+ORD00472,2025-05-25,CUST0229,Customer_162,North,Punjab,Clothing,Jeans,10,39700,22883.32,16816.68
+ORD00473,2024-02-06,CUST0286,Customer_282,North,Punjab,Home & Kitchen,Water Bottle,1,1140,764.98,375.02
+ORD00474,2025-07-29,CUST0106,Customer_234,North,Delhi,Home & Kitchen,Mixer Grinder,10,27950,22836.08,5113.92
+ORD00475,2025-09-26,CUST0243,Customer_187,East,Odisha,Electronics,Laptop,4,16088,10450.63,5637.37
+ORD00476,2025-10-10,CUST0150,Customer_281,West,Maharashtra,Electronics,Smartphone,4,1268,827.25,440.75
+ORD00477,2025-02-23,CUST0055,Customer_131,East,Bihar,Electronics,Smartphone,1,1644,1147.06,496.94
+ORD00478,2024-07-14,CUST0174,Customer_056,South,Karnataka,Electronics,Smartphone,7,14462,9937.04,4524.96
+ORD00479,2025-04-06,CUST0235,Customer_259,West,Maharashtra,Home & Kitchen,Cookware Set,10,13090,10231.71,2858.29
+ORD00480,2025-03-19,CUST0300,Customer_248,South,Tamil Nadu,Electronics,Laptop,9,6273,4491.27,1781.73
+ORD00481,2025-11-04,CUST0165,Customer_259,South,Telangana,Home & Kitchen,Mixer Grinder,3,4053,2355.06,1697.94
+ORD00482,2024-12-17,CUST0151,Customer_232,West,Gujarat,Home & Kitchen,Mixer Grinder,4,10164,6803.39,3360.61
+ORD00483,2025-12-19,CUST0281,Customer_161,South,Karnataka,Clothing,T-Shirt,10,44960,28759.74,16200.26
+ORD00484,2025-11-19,CUST0068,Customer_092,South,Karnataka,Furniture,Office Chair,10,26800,20260.35,6539.65
+ORD00485,2025-08-07,CUST0214,Customer_274,East,Bihar,Electronics,Smartphone,6,29436,20431.85,9004.15
+ORD00486,2024-05-28,CUST0028,Customer_029,East,Odisha,Electronics,Laptop,9,10548,5881.37,4666.63
+ORD00487,2024-03-04,CUST0152,Customer_105,South,Tamil Nadu,Electronics,Headphones,5,11760,6984.6,4775.4
+ORD00488,2025-10-24,CUST0288,Customer_200,North,Punjab,Clothing,Jeans,2,9804,7935.87,1868.13
+ORD00489,2025-01-31,CUST0214,Customer_161,South,Telangana,Home & Kitchen,Water Bottle,5,3420,2831.57,588.43
+ORD00490,2025-03-29,CUST0116,Customer_189,North,Delhi,Home & Kitchen,Water Bottle,5,9815,7225.49,2589.51
+ORD00491,2025-11-30,CUST0039,Customer_096,South,Telangana,Furniture,Office Chair,5,19880,11992.17,7887.83
+ORD00492,2024-10-12,CUST0285,Customer_136,South,Telangana,Clothing,Jacket,2,6780,3811.65,2968.35
+ORD00493,2025-12-27,CUST0080,Customer_021,South,Karnataka,Home & Kitchen,Mixer Grinder,5,1730,1123.06,606.94
+ORD00494,2025-08-09,CUST0282,Customer_184,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,2767,1929.06,837.94
+ORD00495,2025-06-17,CUST0035,Customer_259,North,Haryana,Furniture,Bookshelf,9,18909,15828.65,3080.35
+ORD00496,2024-08-14,CUST0110,Customer_170,South,Tamil Nadu,Clothing,Jacket,9,32436,18734.5,13701.5
+ORD00497,2025-07-28,CUST0005,Customer_059,East,Odisha,Furniture,Desk,4,18580,12865.85,5714.15
+ORD00498,2025-11-29,CUST0165,Customer_196,East,Odisha,Furniture,Office Chair,10,22970,19241.26,3728.74
+ORD00499,2025-06-13,CUST0192,Customer_264,North,Punjab,Furniture,Desk,9,23544,13123.7,10420.3
+ORD00500,2024-03-25,CUST0050,Customer_086,West,Gujarat,Electronics,Laptop,5,9385,6063.59,3321.41
+ORD00501,2025-03-10,CUST0054,Customer_106,North,Haryana,Electronics,Smartphone,4,8184,6624.83,1559.17
+ORD00502,2024-12-05,CUST0020,Customer_045,West,Rajasthan,Electronics,Smartphone,3,1482,1019.27,462.73
+ORD00503,2024-08-21,CUST0133,Customer_209,North,Delhi,Electronics,Headphones,5,24355,13909.94,10445.06
+ORD00504,2025-02-02,CUST0061,Customer_274,West,Gujarat,Home & Kitchen,Cookware Set,7,26929,17367.08,9561.92
+ORD00505,2025-08-22,CUST0024,Customer_038,North,Haryana,Home & Kitchen,Water Bottle,10,8180,6354.13,1825.87
+ORD00506,2024-10-15,CUST0225,Customer_196,East,Bihar,Electronics,Smartphone,5,13840,10130.46,3709.54
+ORD00507,2024-05-19,CUST0201,Customer_280,West,Rajasthan,Electronics,Laptop,8,12640,8974.91,3665.09
+ORD00508,2024-01-12,CUST0284,Customer_285,East,Bihar,Electronics,Headphones,5,16780,14048.51,2731.49
+ORD00509,2025-07-04,CUST0281,Customer_044,South,Karnataka,Electronics,Laptop,1,4991,3638.42,1352.58
+ORD00510,2025-10-23,CUST0263,Customer_073,East,West Bengal,Home & Kitchen,Water Bottle,6,12204,8223.01,3980.99
+ORD00511,2024-07-04,CUST0291,Customer_028,South,Karnataka,Furniture,Office Chair,10,23700,14416.66,9283.34
+ORD00512,2024-09-13,CUST0051,Customer_102,West,Rajasthan,Clothing,Jacket,2,5362,4029.57,1332.43
+ORD00513,2025-09-26,CUST0036,Customer_100,West,Gujarat,Furniture,Bookshelf,3,6663,3864.63,2798.37
+ORD00514,2024-06-05,CUST0290,Customer_291,East,Odisha,Clothing,Jeans,6,16824,12753.22,4070.78
+ORD00515,2024-08-14,CUST0224,Customer_142,East,Odisha,Clothing,T-Shirt,3,1017,654.91,362.09
+ORD00516,2025-01-02,CUST0157,Customer_250,East,West Bengal,Home & Kitchen,Cookware Set,6,25386,17487.26,7898.74
+ORD00517,2024-05-23,CUST0276,Customer_101,North,Delhi,Home & Kitchen,Cookware Set,10,9710,7792.64,1917.36
+ORD00518,2025-06-03,CUST0016,Customer_298,East,Bihar,Home & Kitchen,Cookware Set,2,1834,1499.54,334.46
+ORD00519,2025-07-06,CUST0242,Customer_077,West,Rajasthan,Furniture,Office Chair,1,4818,3026.59,1791.41
+ORD00520,2025-05-28,CUST0262,Customer_047,East,Odisha,Furniture,Office Chair,10,26830,15834.11,10995.89
+ORD00521,2025-09-20,CUST0085,Customer_264,West,Gujarat,Clothing,Jacket,1,2256,1814.71,441.29
+ORD00522,2025-11-06,CUST0075,Customer_248,South,Tamil Nadu,Electronics,Headphones,3,14817,12366.47,2450.53
+ORD00523,2025-01-13,CUST0120,Customer_022,East,West Bengal,Furniture,Office Chair,8,17584,10002.81,7581.19
+ORD00524,2024-02-17,CUST0021,Customer_166,South,Telangana,Furniture,Bookshelf,7,29029,23959.68,5069.32
+ORD00525,2025-08-06,CUST0090,Customer_193,North,Haryana,Clothing,Jacket,5,12285,8889.3,3395.7
+ORD00526,2024-08-16,CUST0265,Customer_208,West,Gujarat,Home & Kitchen,Mixer Grinder,2,9064,5669.31,3394.69
+ORD00527,2024-05-22,CUST0226,Customer_085,East,Odisha,Clothing,Jeans,8,2832,1983.96,848.04
+ORD00528,2024-06-10,CUST0186,Customer_061,South,Karnataka,Clothing,Jacket,5,10160,6045.93,4114.07
+ORD00529,2025-05-05,CUST0108,Customer_083,South,Tamil Nadu,Furniture,Bookshelf,2,8488,6387.8,2100.2
+ORD00530,2024-06-13,CUST0069,Customer_263,West,Maharashtra,Furniture,Office Chair,1,1347,972.6,374.4
+ORD00531,2024-07-03,CUST0265,Customer_208,North,Haryana,Electronics,Headphones,1,1662,1042.87,619.13
+ORD00532,2025-09-13,CUST0242,Customer_247,North,Haryana,Home & Kitchen,Water Bottle,5,5010,3081.04,1928.96
+ORD00533,2024-07-05,CUST0262,Customer_136,South,Karnataka,Clothing,T-Shirt,10,14690,11581.37,3108.63
+ORD00534,2024-03-11,CUST0118,Customer_194,South,Telangana,Home & Kitchen,Cookware Set,6,24084,17556.27,6527.73
+ORD00535,2025-05-31,CUST0215,Customer_077,West,Maharashtra,Electronics,Smartphone,1,1957,1383.23,573.77
+ORD00536,2025-06-28,CUST0258,Customer_061,North,Delhi,Clothing,Jeans,10,6190,5034.49,1155.51
+ORD00537,2025-11-25,CUST0221,Customer_268,North,Punjab,Home & Kitchen,Cookware Set,3,14151,11296.13,2854.87
+ORD00538,2025-05-08,CUST0196,Customer_180,West,Gujarat,Electronics,Laptop,9,34326,21242.5,13083.5
+ORD00539,2024-03-26,CUST0146,Customer_279,North,Punjab,Electronics,Headphones,5,21040,16406.1,4633.9
+ORD00540,2024-04-30,CUST0267,Customer_004,West,Gujarat,Furniture,Office Chair,1,358,258.98,99.02
+ORD00541,2024-06-07,CUST0219,Customer_300,West,Rajasthan,Furniture,Office Chair,6,21894,14421.16,7472.84
+ORD00542,2024-10-09,CUST0204,Customer_105,East,Odisha,Clothing,Jacket,7,34475,22742.92,11732.08
+ORD00543,2025-07-22,CUST0248,Customer_130,West,Rajasthan,Clothing,Jacket,8,14112,9328.93,4783.07
+ORD00544,2025-11-06,CUST0061,Customer_118,East,Bihar,Furniture,Bookshelf,7,10017,8078.71,1938.29
+ORD00545,2024-12-12,CUST0282,Customer_027,West,Rajasthan,Electronics,Headphones,2,4112,2888.69,1223.31
+ORD00546,2025-04-27,CUST0223,Customer_046,South,Tamil Nadu,Home & Kitchen,Cookware Set,1,1046,833.64,212.36
+ORD00547,2025-01-28,CUST0206,Customer_267,North,Punjab,Furniture,Office Chair,6,5730,4198.42,1531.58
+ORD00548,2025-03-25,CUST0006,Customer_104,East,Bihar,Home & Kitchen,Mixer Grinder,1,1735,1287.52,447.48
+ORD00549,2024-08-25,CUST0087,Customer_019,East,West Bengal,Electronics,Laptop,10,44820,31586.63,13233.37
+ORD00550,2024-10-09,CUST0205,Customer_181,East,West Bengal,Home & Kitchen,Cookware Set,1,1589,915.35,673.65
+ORD00551,2025-12-21,CUST0036,Customer_047,West,Gujarat,Home & Kitchen,Mixer Grinder,4,18164,10073.94,8090.06
+ORD00552,2024-10-10,CUST0116,Customer_100,East,Bihar,Clothing,Jacket,10,31510,20615.18,10894.82
+ORD00553,2025-06-02,CUST0055,Customer_287,West,Gujarat,Home & Kitchen,Mixer Grinder,1,2438,1468.92,969.08
+ORD00554,2024-09-20,CUST0276,Customer_295,North,Haryana,Furniture,Desk,6,7548,5969.58,1578.42
+ORD00555,2024-09-06,CUST0174,Customer_235,East,Bihar,Clothing,Jeans,7,34391,23904.8,10486.2
+ORD00556,2025-01-26,CUST0113,Customer_118,West,Rajasthan,Electronics,Laptop,8,10016,6283.5,3732.5
+ORD00557,2024-09-26,CUST0128,Customer_148,East,Odisha,Furniture,Bookshelf,9,42192,23328.67,18863.33
+ORD00558,2024-07-01,CUST0244,Customer_161,North,Punjab,Home & Kitchen,Cookware Set,6,5532,3962.93,1569.07
+ORD00559,2025-11-30,CUST0098,Customer_256,East,West Bengal,Home & Kitchen,Mixer Grinder,5,8985,7494.71,1490.29
+ORD00560,2024-07-26,CUST0128,Customer_183,South,Karnataka,Home & Kitchen,Water Bottle,4,9896,6056.68,3839.32
+ORD00561,2025-07-08,CUST0022,Customer_247,South,Karnataka,Electronics,Smartphone,2,8670,6365.06,2304.94
+ORD00562,2025-06-07,CUST0144,Customer_204,East,Bihar,Furniture,Bookshelf,8,20400,14223.73,6176.27
+ORD00563,2025-05-04,CUST0277,Customer_017,South,Telangana,Electronics,Headphones,1,4606,3637.73,968.27
+ORD00564,2025-12-16,CUST0266,Customer_236,East,Odisha,Home & Kitchen,Cookware Set,3,12135,10229.22,1905.78
+ORD00565,2024-04-13,CUST0167,Customer_186,East,Bihar,Electronics,Laptop,1,2026,1344.92,681.08
+ORD00566,2025-09-19,CUST0176,Customer_188,East,West Bengal,Clothing,Jacket,5,11210,7071.52,4138.48
+ORD00567,2025-01-16,CUST0187,Customer_206,South,Tamil Nadu,Clothing,T-Shirt,4,14932,11351.51,3580.49
+ORD00568,2025-12-03,CUST0118,Customer_052,East,Odisha,Electronics,Headphones,10,13740,11593.56,2146.44
+ORD00569,2024-06-02,CUST0243,Customer_005,East,West Bengal,Clothing,Jacket,7,23940,14575.13,9364.87
+ORD00570,2024-11-19,CUST0250,Customer_154,South,Tamil Nadu,Clothing,Jeans,3,13605,9662.2,3942.8
+ORD00571,2024-06-16,CUST0031,Customer_111,East,Bihar,Home & Kitchen,Mixer Grinder,1,3563,2065.44,1497.56
+ORD00572,2024-09-23,CUST0185,Customer_185,East,Odisha,Home & Kitchen,Cookware Set,2,7970,6163.82,1806.18
+ORD00573,2025-11-26,CUST0102,Customer_296,East,Odisha,Electronics,Laptop,7,9051,5931.37,3119.63
+ORD00574,2025-04-02,CUST0041,Customer_196,South,Tamil Nadu,Furniture,Bookshelf,6,26886,18719.33,8166.67
+ORD00575,2024-12-11,CUST0216,Customer_293,East,Odisha,Home & Kitchen,Cookware Set,3,5016,3722.75,1293.25
+ORD00576,2024-11-20,CUST0150,Customer_137,West,Maharashtra,Electronics,Smartphone,3,9342,5777.7,3564.3
+ORD00577,2025-02-27,CUST0086,Customer_095,West,Gujarat,Clothing,Jeans,6,27402,23008.3,4393.7
+ORD00578,2025-12-18,CUST0041,Customer_108,North,Delhi,Home & Kitchen,Water Bottle,4,9444,7858.65,1585.35
+ORD00579,2025-04-29,CUST0281,Customer_028,South,Tamil Nadu,Electronics,Smartphone,2,1644,1366.23,277.77
+ORD00580,2024-06-08,CUST0044,Customer_200,North,Punjab,Clothing,Jacket,2,2302,1447.35,854.65
+ORD00581,2024-05-14,CUST0270,Customer_088,East,West Bengal,Furniture,Office Chair,5,19650,14500.6,5149.4
+ORD00582,2025-04-23,CUST0277,Customer_140,North,Delhi,Home & Kitchen,Cookware Set,6,17784,14392.1,3391.9
+ORD00583,2025-04-12,CUST0289,Customer_223,West,Maharashtra,Home & Kitchen,Water Bottle,9,15750,11454.18,4295.82
+ORD00584,2025-03-28,CUST0158,Customer_188,East,Odisha,Clothing,Jeans,9,19440,15385.06,4054.94
+ORD00585,2024-05-19,CUST0177,Customer_147,West,Gujarat,Electronics,Headphones,5,1930,1061.55,868.45
+ORD00586,2025-03-16,CUST0150,Customer_119,West,Rajasthan,Electronics,Laptop,8,33664,21541.03,12122.97
+ORD00587,2025-03-23,CUST0203,Customer_128,North,Haryana,Furniture,Bookshelf,4,14688,11965.56,2722.44
+ORD00588,2024-03-22,CUST0217,Customer_123,South,Telangana,Home & Kitchen,Water Bottle,7,23793,14660.72,9132.28
+ORD00589,2024-03-11,CUST0094,Customer_070,East,Odisha,Home & Kitchen,Cookware Set,9,22518,15174.23,7343.77
+ORD00590,2025-09-29,CUST0252,Customer_097,East,West Bengal,Home & Kitchen,Cookware Set,8,32072,20257.97,11814.03
+ORD00591,2024-04-14,CUST0145,Customer_138,East,West Bengal,Electronics,Headphones,1,4682,2606.19,2075.81
+ORD00592,2024-01-16,CUST0253,Customer_112,South,Telangana,Clothing,Jeans,1,2207,1273.57,933.43
+ORD00593,2024-02-02,CUST0170,Customer_042,East,Odisha,Furniture,Desk,8,26736,18423.92,8312.08
+ORD00594,2024-07-04,CUST0099,Customer_129,South,Karnataka,Furniture,Desk,7,6188,4411.78,1776.22
+ORD00595,2025-03-29,CUST0127,Customer_018,West,Maharashtra,Electronics,Smartphone,4,13808,10789.12,3018.88
+ORD00596,2024-08-01,CUST0243,Customer_200,South,Tamil Nadu,Home & Kitchen,Water Bottle,2,9138,6851.69,2286.31
+ORD00597,2024-09-16,CUST0247,Customer_153,East,Odisha,Electronics,Headphones,1,4802,3391.55,1410.45
+ORD00598,2025-03-20,CUST0167,Customer_008,South,Tamil Nadu,Electronics,Laptop,4,4900,3041.87,1858.13
+ORD00599,2024-01-10,CUST0022,Customer_298,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,2,7084,5573.29,1510.71
+ORD00600,2024-09-11,CUST0081,Customer_256,West,Rajasthan,Home & Kitchen,Mixer Grinder,3,10026,7832.7,2193.3
+ORD00601,2025-10-22,CUST0079,Customer_275,North,Haryana,Home & Kitchen,Mixer Grinder,6,4746,2695.41,2050.59
+ORD00602,2025-10-22,CUST0178,Customer_225,North,Delhi,Clothing,Jeans,4,11576,9775.96,1800.04
+ORD00603,2024-09-13,CUST0021,Customer_249,South,Karnataka,Home & Kitchen,Water Bottle,7,22638,17370.58,5267.42
+ORD00604,2024-07-10,CUST0279,Customer_179,West,Rajasthan,Furniture,Desk,9,38826,23564.77,15261.23
+ORD00605,2025-06-27,CUST0080,Customer_231,East,Bihar,Clothing,Jeans,5,24210,14480.07,9729.93
+ORD00606,2025-10-15,CUST0260,Customer_195,East,Odisha,Clothing,Jacket,6,24114,13267.91,10846.09
+ORD00607,2024-03-05,CUST0276,Customer_199,South,Karnataka,Home & Kitchen,Mixer Grinder,6,13536,8747.07,4788.93
+ORD00608,2024-10-16,CUST0166,Customer_210,South,Telangana,Home & Kitchen,Cookware Set,8,38536,22976.68,15559.32
+ORD00609,2024-05-12,CUST0092,Customer_017,East,West Bengal,Electronics,Smartphone,9,7614,4287.7,3326.3
+ORD00610,2025-10-19,CUST0199,Customer_251,South,Karnataka,Clothing,Jeans,4,4432,2479.9,1952.1
+ORD00611,2024-08-01,CUST0252,Customer_041,East,West Bengal,Furniture,Bookshelf,4,3520,1949.82,1570.18
+ORD00612,2025-03-01,CUST0189,Customer_030,West,Rajasthan,Electronics,Laptop,6,29226,22592.96,6633.04
+ORD00613,2024-08-09,CUST0266,Customer_050,East,Bihar,Electronics,Laptop,2,5578,3198.32,2379.68
+ORD00614,2025-06-22,CUST0128,Customer_292,North,Haryana,Furniture,Office Chair,9,31104,18875.09,12228.91
+ORD00615,2025-10-15,CUST0296,Customer_184,South,Telangana,Home & Kitchen,Water Bottle,9,33309,25775.59,7533.41
+ORD00616,2024-07-03,CUST0282,Customer_206,West,Rajasthan,Home & Kitchen,Cookware Set,7,8064,4838.75,3225.25
+ORD00617,2024-11-18,CUST0282,Customer_167,East,Bihar,Electronics,Headphones,9,35361,29351.61,6009.39
+ORD00618,2025-07-30,CUST0280,Customer_110,East,Odisha,Home & Kitchen,Cookware Set,7,20643,15121.49,5521.51
+ORD00619,2025-04-03,CUST0204,Customer_001,West,Rajasthan,Home & Kitchen,Water Bottle,5,16245,13621.36,2623.64
+ORD00620,2024-11-05,CUST0004,Customer_154,North,Punjab,Home & Kitchen,Mixer Grinder,1,4540,2680.99,1859.01
+ORD00621,2025-06-07,CUST0285,Customer_293,South,Karnataka,Furniture,Bookshelf,1,2560,2113.88,446.12
+ORD00622,2024-09-28,CUST0188,Customer_299,South,Karnataka,Electronics,Laptop,8,25704,15340.97,10363.03
+ORD00623,2025-08-05,CUST0112,Customer_040,South,Karnataka,Furniture,Desk,5,5260,3793.23,1466.77
+ORD00624,2024-11-03,CUST0020,Customer_296,East,Odisha,Electronics,Headphones,8,8648,6300.67,2347.33
+ORD00625,2025-03-20,CUST0214,Customer_062,West,Maharashtra,Electronics,Laptop,6,18900,15383.42,3516.58
+ORD00626,2025-10-09,CUST0196,Customer_028,South,Telangana,Home & Kitchen,Cookware Set,10,3930,2908.85,1021.15
+ORD00627,2024-11-30,CUST0258,Customer_114,East,Bihar,Electronics,Laptop,6,28338,20388.45,7949.55
+ORD00628,2025-08-12,CUST0259,Customer_047,South,Karnataka,Home & Kitchen,Cookware Set,7,27650,21452.31,6197.69
+ORD00629,2024-03-25,CUST0244,Customer_293,South,Tamil Nadu,Furniture,Desk,7,10584,6240.93,4343.07
+ORD00630,2025-03-20,CUST0067,Customer_070,North,Haryana,Clothing,T-Shirt,5,4980,3334.4,1645.6
+ORD00631,2024-07-19,CUST0288,Customer_269,West,Rajasthan,Furniture,Office Chair,8,28304,21105.57,7198.43
+ORD00632,2025-08-12,CUST0046,Customer_058,South,Karnataka,Electronics,Smartphone,5,19115,12367.85,6747.15
+ORD00633,2025-08-31,CUST0013,Customer_157,West,Gujarat,Furniture,Bookshelf,6,11160,7211.83,3948.17
+ORD00634,2024-08-27,CUST0103,Customer_192,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,8,11952,8152.93,3799.07
+ORD00635,2025-09-27,CUST0076,Customer_148,South,Telangana,Electronics,Smartphone,2,1492,929.39,562.61
+ORD00636,2024-01-24,CUST0170,Customer_108,North,Punjab,Home & Kitchen,Water Bottle,2,5598,3834.73,1763.27
+ORD00637,2025-09-29,CUST0073,Customer_010,South,Karnataka,Clothing,Jacket,9,21762,15552.0,6210.0
+ORD00638,2024-03-02,CUST0146,Customer_103,West,Rajasthan,Home & Kitchen,Cookware Set,9,5904,3699.66,2204.34
+ORD00639,2024-10-04,CUST0185,Customer_056,East,West Bengal,Clothing,Jeans,1,845,563.27,281.73
+ORD00640,2025-06-04,CUST0051,Customer_162,North,Punjab,Home & Kitchen,Cookware Set,7,15351,12955.29,2395.71
+ORD00641,2025-04-13,CUST0288,Customer_012,West,Rajasthan,Clothing,Jacket,2,3654,2227.71,1426.29
+ORD00642,2024-06-09,CUST0010,Customer_178,North,Delhi,Clothing,Jacket,5,15160,10566.21,4593.79
+ORD00643,2025-05-28,CUST0142,Customer_032,East,Odisha,Home & Kitchen,Cookware Set,5,11170,9481.08,1688.92
+ORD00644,2024-12-15,CUST0202,Customer_071,East,Odisha,Electronics,Laptop,9,23355,14425.8,8929.2
+ORD00645,2025-08-09,CUST0079,Customer_219,North,Haryana,Clothing,T-Shirt,9,19467,13144.12,6322.88
+ORD00646,2025-10-30,CUST0071,Customer_298,East,Bihar,Furniture,Bookshelf,8,37928,22359.76,15568.24
+ORD00647,2024-05-28,CUST0290,Customer_081,South,Karnataka,Furniture,Desk,9,12663,8598.42,4064.58
+ORD00648,2024-05-29,CUST0016,Customer_164,East,West Bengal,Clothing,Jacket,9,11421,6912.45,4508.55
+ORD00649,2024-07-11,CUST0055,Customer_068,West,Gujarat,Furniture,Desk,8,20336,12111.86,8224.14
+ORD00650,2025-09-19,CUST0119,Customer_119,South,Karnataka,Home & Kitchen,Mixer Grinder,10,24860,18189.6,6670.4
+ORD00651,2025-05-03,CUST0069,Customer_258,South,Telangana,Electronics,Laptop,6,5706,4316.26,1389.74
+ORD00652,2025-05-18,CUST0243,Customer_071,West,Rajasthan,Home & Kitchen,Cookware Set,6,10842,8734.74,2107.26
+ORD00653,2024-01-16,CUST0139,Customer_212,South,Karnataka,Furniture,Office Chair,1,3647,2842.33,804.67
+ORD00654,2025-03-25,CUST0251,Customer_167,South,Telangana,Home & Kitchen,Cookware Set,4,7900,4501.74,3398.26
+ORD00655,2025-01-24,CUST0161,Customer_202,West,Maharashtra,Clothing,T-Shirt,7,4494,3291.31,1202.69
+ORD00656,2024-02-13,CUST0126,Customer_266,North,Haryana,Electronics,Smartphone,8,32336,25807.46,6528.54
+ORD00657,2025-10-07,CUST0026,Customer_098,West,Rajasthan,Electronics,Laptop,9,31257,22031.12,9225.88
+ORD00658,2025-03-08,CUST0151,Customer_028,East,Odisha,Clothing,T-Shirt,5,13210,9093.82,4116.18
+ORD00659,2024-04-25,CUST0093,Customer_300,South,Tamil Nadu,Home & Kitchen,Cookware Set,8,8320,6379.73,1940.27
+ORD00660,2025-04-09,CUST0104,Customer_233,South,Tamil Nadu,Clothing,T-Shirt,6,23958,13355.95,10602.05
+ORD00661,2025-12-24,CUST0231,Customer_186,North,Punjab,Furniture,Bookshelf,3,3936,2272.48,1663.52
+ORD00662,2024-06-12,CUST0194,Customer_282,North,Haryana,Home & Kitchen,Water Bottle,7,31437,23062.87,8374.13
+ORD00663,2024-06-02,CUST0084,Customer_075,West,Maharashtra,Electronics,Headphones,6,29592,24010.7,5581.3
+ORD00664,2025-04-01,CUST0148,Customer_093,South,Telangana,Electronics,Laptop,7,19761,12703.47,7057.53
+ORD00665,2025-05-24,CUST0256,Customer_279,North,Delhi,Furniture,Office Chair,1,2373,1313.84,1059.16
+ORD00666,2025-05-02,CUST0233,Customer_210,North,Haryana,Clothing,Jeans,4,8304,6034.17,2269.83
+ORD00667,2025-07-14,CUST0143,Customer_286,West,Maharashtra,Home & Kitchen,Mixer Grinder,10,3530,2200.65,1329.35
+ORD00668,2024-02-07,CUST0075,Customer_017,South,Karnataka,Electronics,Headphones,3,2253,1680.7,572.3
+ORD00669,2024-07-01,CUST0083,Customer_146,East,Odisha,Electronics,Smartphone,1,1192,804.7,387.3
+ORD00670,2024-04-05,CUST0154,Customer_166,South,Tamil Nadu,Home & Kitchen,Water Bottle,10,32500,26956.93,5543.07
+ORD00671,2025-04-27,CUST0069,Customer_063,East,Odisha,Electronics,Smartphone,7,33663,19170.33,14492.67
+ORD00672,2024-08-02,CUST0030,Customer_056,East,Odisha,Clothing,Jacket,7,32179,19724.23,12454.77
+ORD00673,2024-11-20,CUST0133,Customer_270,North,Punjab,Home & Kitchen,Water Bottle,10,26520,17983.64,8536.36
+ORD00674,2025-10-09,CUST0255,Customer_253,East,West Bengal,Home & Kitchen,Mixer Grinder,10,43660,30820.11,12839.89
+ORD00675,2024-01-25,CUST0239,Customer_061,South,Telangana,Furniture,Office Chair,5,9425,5188.22,4236.78
+ORD00676,2025-07-27,CUST0109,Customer_006,South,Telangana,Clothing,T-Shirt,7,4704,3058.25,1645.75
+ORD00677,2025-06-02,CUST0282,Customer_166,South,Telangana,Furniture,Desk,5,4275,2745.97,1529.03
+ORD00678,2025-08-05,CUST0015,Customer_090,North,Delhi,Home & Kitchen,Cookware Set,6,18576,12423.9,6152.1
+ORD00679,2025-10-23,CUST0070,Customer_247,South,Tamil Nadu,Furniture,Bookshelf,8,33496,26434.25,7061.75
+ORD00680,2025-02-27,CUST0029,Customer_267,South,Telangana,Clothing,Jeans,9,27405,18874.95,8530.05
+ORD00681,2024-08-01,CUST0296,Customer_170,East,Bihar,Home & Kitchen,Water Bottle,6,29088,20674.75,8413.25
+ORD00682,2025-01-19,CUST0274,Customer_085,East,West Bengal,Electronics,Headphones,5,2775,1808.59,966.41
+ORD00683,2024-11-18,CUST0017,Customer_140,West,Maharashtra,Home & Kitchen,Mixer Grinder,2,5650,4302.93,1347.07
+ORD00684,2024-11-05,CUST0111,Customer_269,West,Maharashtra,Clothing,Jeans,4,13376,9170.21,4205.79
+ORD00685,2024-04-04,CUST0228,Customer_260,East,West Bengal,Electronics,Smartphone,6,3636,2848.21,787.79
+ORD00686,2025-05-10,CUST0269,Customer_159,North,Punjab,Clothing,Jacket,3,5574,3634.44,1939.56
+ORD00687,2024-02-07,CUST0236,Customer_199,East,West Bengal,Electronics,Smartphone,9,12483,7634.06,4848.94
+ORD00688,2024-02-17,CUST0053,Customer_267,North,Delhi,Furniture,Desk,1,1013,658.44,354.56
+ORD00689,2024-07-16,CUST0147,Customer_142,East,West Bengal,Home & Kitchen,Mixer Grinder,5,10095,6524.04,3570.96
+ORD00690,2024-10-07,CUST0059,Customer_008,East,Odisha,Home & Kitchen,Cookware Set,2,5066,3013.24,2052.76
+ORD00691,2024-05-24,CUST0146,Customer_294,North,Delhi,Clothing,Jacket,6,28800,18591.71,10208.29
+ORD00692,2024-02-21,CUST0067,Customer_015,South,Karnataka,Electronics,Smartphone,5,15370,10946.1,4423.9
+ORD00693,2025-03-12,CUST0201,Customer_092,West,Rajasthan,Electronics,Laptop,2,6884,3897.31,2986.69
+ORD00694,2025-12-31,CUST0274,Customer_041,West,Rajasthan,Furniture,Bookshelf,5,15110,12015.96,3094.04
+ORD00695,2024-11-13,CUST0239,Customer_241,West,Rajasthan,Electronics,Headphones,2,8272,4790.97,3481.03
+ORD00696,2025-02-05,CUST0094,Customer_170,South,Karnataka,Electronics,Headphones,10,24130,19879.71,4250.29
+ORD00697,2024-12-25,CUST0246,Customer_237,East,Odisha,Clothing,Jeans,1,835,578.32,256.68
+ORD00698,2025-02-19,CUST0055,Customer_167,South,Tamil Nadu,Furniture,Bookshelf,10,13430,9433.03,3996.97
+ORD00699,2024-09-01,CUST0125,Customer_281,North,Punjab,Clothing,Jacket,8,28664,20843.34,7820.66
+ORD00700,2025-12-11,CUST0221,Customer_223,South,Tamil Nadu,Clothing,T-Shirt,2,6182,3786.3,2395.7
+ORD00701,2024-03-20,CUST0294,Customer_250,East,Bihar,Home & Kitchen,Water Bottle,4,6868,5142.65,1725.35
+ORD00702,2025-03-31,CUST0091,Customer_158,North,Haryana,Home & Kitchen,Mixer Grinder,8,23720,16996.0,6724.0
+ORD00703,2025-10-22,CUST0032,Customer_047,West,Maharashtra,Home & Kitchen,Mixer Grinder,2,6808,4413.1,2394.9
+ORD00704,2025-04-08,CUST0273,Customer_150,South,Karnataka,Home & Kitchen,Mixer Grinder,1,1501,1123.14,377.86
+ORD00705,2024-11-20,CUST0154,Customer_292,West,Rajasthan,Home & Kitchen,Mixer Grinder,8,15216,9307.6,5908.4
+ORD00706,2025-09-18,CUST0262,Customer_207,East,Odisha,Home & Kitchen,Water Bottle,6,6186,4483.72,1702.28
+ORD00707,2024-01-01,CUST0287,Customer_184,South,Tamil Nadu,Electronics,Laptop,6,28776,24182.48,4593.52
+ORD00708,2025-02-07,CUST0163,Customer_196,North,Punjab,Electronics,Laptop,4,15344,11671.67,3672.33
+ORD00709,2025-05-01,CUST0072,Customer_097,West,Gujarat,Clothing,T-Shirt,9,18270,13679.59,4590.41
+ORD00710,2025-11-17,CUST0065,Customer_069,West,Gujarat,Clothing,T-Shirt,3,7989,6784.55,1204.45
+ORD00711,2025-05-13,CUST0224,Customer_070,North,Delhi,Home & Kitchen,Cookware Set,1,1479,1133.51,345.49
+ORD00712,2025-12-13,CUST0218,Customer_093,North,Delhi,Home & Kitchen,Cookware Set,7,28245,23106.52,5138.48
+ORD00713,2024-08-19,CUST0096,Customer_218,West,Rajasthan,Clothing,T-Shirt,9,35874,23871.08,12002.92
+ORD00714,2025-07-13,CUST0296,Customer_188,North,Haryana,Clothing,Jeans,4,17640,11126.87,6513.13
+ORD00715,2025-05-08,CUST0041,Customer_073,North,Delhi,Home & Kitchen,Mixer Grinder,8,26552,15505.02,11046.98
+ORD00716,2024-03-31,CUST0126,Customer_242,East,Odisha,Clothing,Jacket,2,9174,7494.93,1679.07
+ORD00717,2024-12-17,CUST0274,Customer_006,North,Haryana,Home & Kitchen,Cookware Set,9,25731,18884.28,6846.72
+ORD00718,2024-10-28,CUST0149,Customer_086,West,Gujarat,Clothing,Jacket,8,24120,16312.47,7807.53
+ORD00719,2025-10-06,CUST0243,Customer_297,North,Haryana,Home & Kitchen,Mixer Grinder,5,24585,15442.65,9142.35
+ORD00720,2024-03-25,CUST0065,Customer_259,South,Telangana,Electronics,Laptop,5,2615,1663.26,951.74
+ORD00721,2024-09-20,CUST0008,Customer_058,North,Punjab,Furniture,Desk,3,7803,4935.91,2867.09
+ORD00722,2024-06-28,CUST0134,Customer_121,South,Telangana,Home & Kitchen,Water Bottle,3,11874,7847.88,4026.12
+ORD00723,2024-05-28,CUST0079,Customer_254,West,Maharashtra,Clothing,Jacket,1,3108,2626.95,481.05
+ORD00724,2024-12-19,CUST0028,Customer_136,West,Gujarat,Furniture,Office Chair,8,13360,8193.11,5166.89
+ORD00725,2025-05-02,CUST0273,Customer_120,North,Delhi,Electronics,Headphones,8,28528,19766.18,8761.82
+ORD00726,2025-06-27,CUST0223,Customer_007,West,Rajasthan,Home & Kitchen,Water Bottle,7,29309,18429.13,10879.87
+ORD00727,2024-02-12,CUST0050,Customer_273,East,Odisha,Clothing,T-Shirt,6,27858,21028.97,6829.03
+ORD00728,2024-04-10,CUST0131,Customer_300,East,Odisha,Home & Kitchen,Mixer Grinder,5,15220,9605.31,5614.69
+ORD00729,2025-11-24,CUST0093,Customer_161,West,Gujarat,Home & Kitchen,Cookware Set,4,7584,5354.2,2229.8
+ORD00730,2025-06-21,CUST0054,Customer_229,North,Haryana,Electronics,Laptop,2,794,534.66,259.34
+ORD00731,2024-01-25,CUST0048,Customer_030,East,West Bengal,Home & Kitchen,Water Bottle,5,11815,7182.62,4632.38
+ORD00732,2025-09-11,CUST0067,Customer_193,South,Telangana,Home & Kitchen,Cookware Set,2,2564,1476.65,1087.35
+ORD00733,2025-11-07,CUST0039,Customer_233,South,Karnataka,Home & Kitchen,Water Bottle,3,7125,4548.39,2576.61
+ORD00734,2024-03-16,CUST0142,Customer_032,East,Odisha,Home & Kitchen,Water Bottle,6,14448,8648.43,5799.57
+ORD00735,2024-09-28,CUST0092,Customer_226,West,Gujarat,Furniture,Bookshelf,1,2415,2020.59,394.41
+ORD00736,2025-05-18,CUST0056,Customer_074,North,Punjab,Furniture,Office Chair,10,35160,21220.21,13939.79
+ORD00737,2024-04-15,CUST0018,Customer_038,West,Maharashtra,Home & Kitchen,Mixer Grinder,2,7834,5990.03,1843.97
+ORD00738,2025-05-24,CUST0077,Customer_001,North,Haryana,Home & Kitchen,Water Bottle,5,19760,10979.24,8780.76
+ORD00739,2025-02-04,CUST0295,Customer_002,North,Haryana,Clothing,T-Shirt,5,7705,5855.93,1849.07
+ORD00740,2024-01-04,CUST0197,Customer_247,West,Gujarat,Clothing,T-Shirt,7,6118,4356.25,1761.75
+ORD00741,2025-02-14,CUST0029,Customer_047,North,Haryana,Clothing,Jacket,6,18186,13722.26,4463.74
+ORD00742,2024-10-23,CUST0104,Customer_091,East,Bihar,Furniture,Bookshelf,2,8130,6326.25,1803.75
+ORD00743,2024-04-19,CUST0184,Customer_250,North,Punjab,Home & Kitchen,Cookware Set,4,10992,8340.34,2651.66
+ORD00744,2024-01-26,CUST0123,Customer_251,North,Haryana,Clothing,Jeans,4,5784,3243.14,2540.86
+ORD00745,2025-04-05,CUST0009,Customer_019,West,Maharashtra,Clothing,Jacket,5,21965,15599.15,6365.85
+ORD00746,2025-10-31,CUST0268,Customer_235,East,West Bengal,Furniture,Bookshelf,1,3621,2119.94,1501.06
+ORD00747,2024-05-24,CUST0251,Customer_010,South,Telangana,Home & Kitchen,Mixer Grinder,4,3560,1997.39,1562.61
+ORD00748,2025-10-09,CUST0026,Customer_158,West,Rajasthan,Electronics,Laptop,4,5476,3035.4,2440.6
+ORD00749,2024-04-18,CUST0059,Customer_255,North,Punjab,Home & Kitchen,Mixer Grinder,3,2469,1963.69,505.31
+ORD00750,2025-11-25,CUST0206,Customer_167,South,Karnataka,Furniture,Office Chair,7,21441,17012.5,4428.5
+ORD00751,2024-08-06,CUST0024,Customer_089,North,Haryana,Home & Kitchen,Mixer Grinder,9,12825,8291.07,4533.93
+ORD00752,2024-06-21,CUST0190,Customer_284,East,West Bengal,Electronics,Smartphone,5,7285,5662.38,1622.62
+ORD00753,2025-10-09,CUST0193,Customer_081,South,Tamil Nadu,Furniture,Office Chair,10,6330,3734.77,2595.23
+ORD00754,2024-04-01,CUST0146,Customer_214,North,Punjab,Electronics,Smartphone,1,359,216.77,142.23
+ORD00755,2025-06-19,CUST0231,Customer_211,West,Rajasthan,Electronics,Headphones,4,5888,4368.59,1519.41
+ORD00756,2025-09-18,CUST0046,Customer_155,South,Karnataka,Home & Kitchen,Mixer Grinder,1,1774,1357.39,416.61
+ORD00757,2025-06-26,CUST0049,Customer_186,East,Odisha,Electronics,Laptop,9,20070,12193.95,7876.05
+ORD00758,2024-04-25,CUST0077,Customer_243,South,Tamil Nadu,Home & Kitchen,Cookware Set,4,10256,5804.08,4451.92
+ORD00759,2024-10-18,CUST0108,Customer_223,West,Maharashtra,Electronics,Headphones,1,742,551.65,190.35
+ORD00760,2024-02-23,CUST0276,Customer_091,East,Odisha,Home & Kitchen,Mixer Grinder,8,5232,3041.5,2190.5
+ORD00761,2024-08-28,CUST0228,Customer_297,South,Karnataka,Clothing,Jeans,9,11250,6426.65,4823.35
+ORD00762,2024-11-29,CUST0117,Customer_051,East,Odisha,Furniture,Office Chair,6,13104,10269.51,2834.49
+ORD00763,2024-03-16,CUST0242,Customer_300,South,Telangana,Clothing,T-Shirt,4,13504,11038.3,2465.7
+ORD00764,2025-04-10,CUST0092,Customer_199,West,Maharashtra,Clothing,T-Shirt,3,6210,5144.15,1065.85
+ORD00765,2024-07-26,CUST0172,Customer_066,East,West Bengal,Clothing,Jeans,4,12948,10910.85,2037.15
+ORD00766,2025-04-21,CUST0235,Customer_215,North,Haryana,Home & Kitchen,Mixer Grinder,1,2598,1535.29,1062.71
+ORD00767,2025-10-15,CUST0088,Customer_296,South,Tamil Nadu,Furniture,Office Chair,5,7920,6231.96,1688.04
+ORD00768,2024-08-09,CUST0243,Customer_237,South,Karnataka,Clothing,T-Shirt,9,38763,31346.08,7416.92
+ORD00769,2025-03-20,CUST0297,Customer_114,East,West Bengal,Home & Kitchen,Water Bottle,7,16240,10139.43,6100.57
+ORD00770,2025-04-26,CUST0259,Customer_018,South,Telangana,Electronics,Laptop,7,4634,2604.39,2029.61
+ORD00771,2024-09-03,CUST0043,Customer_286,West,Rajasthan,Clothing,T-Shirt,8,8816,6045.42,2770.58
+ORD00772,2024-10-29,CUST0123,Customer_047,North,Haryana,Home & Kitchen,Water Bottle,7,14595,8608.33,5986.67
+ORD00773,2025-08-07,CUST0299,Customer_013,North,Punjab,Home & Kitchen,Cookware Set,5,8125,6183.05,1941.95
+ORD00774,2025-01-14,CUST0238,Customer_001,West,Gujarat,Electronics,Headphones,7,12705,9998.3,2706.7
+ORD00775,2025-03-12,CUST0139,Customer_278,North,Punjab,Home & Kitchen,Water Bottle,6,27894,15615.46,12278.54
+ORD00776,2024-02-26,CUST0264,Customer_187,South,Telangana,Electronics,Smartphone,10,30500,23507.21,6992.79
+ORD00777,2025-01-09,CUST0188,Customer_090,North,Delhi,Clothing,T-Shirt,6,24672,18152.18,6519.82
+ORD00778,2024-09-01,CUST0277,Customer_059,North,Haryana,Home & Kitchen,Water Bottle,4,5732,4839.96,892.04
+ORD00779,2024-09-30,CUST0258,Customer_217,West,Rajasthan,Home & Kitchen,Mixer Grinder,4,8584,5546.46,3037.54
+ORD00780,2025-05-28,CUST0270,Customer_063,East,West Bengal,Electronics,Smartphone,6,18768,12869.65,5898.35
+ORD00781,2025-01-11,CUST0034,Customer_097,West,Rajasthan,Clothing,Jacket,9,24246,16622.9,7623.1
+ORD00782,2024-03-19,CUST0056,Customer_085,West,Maharashtra,Electronics,Smartphone,7,12348,7859.65,4488.35
+ORD00783,2024-07-28,CUST0267,Customer_012,East,West Bengal,Home & Kitchen,Water Bottle,3,13095,7793.48,5301.52
+ORD00784,2025-03-06,CUST0228,Customer_011,East,Odisha,Home & Kitchen,Cookware Set,9,12429,8603.0,3826.0
+ORD00785,2025-06-16,CUST0172,Customer_211,East,West Bengal,Electronics,Smartphone,1,2203,1763.47,439.53
+ORD00786,2025-12-14,CUST0272,Customer_281,East,Bihar,Home & Kitchen,Cookware Set,6,25692,18703.96,6988.04
+ORD00787,2024-11-09,CUST0088,Customer_134,West,Gujarat,Furniture,Desk,10,13800,11308.89,2491.11
+ORD00788,2024-10-18,CUST0234,Customer_086,South,Tamil Nadu,Furniture,Bookshelf,5,3435,2042.11,1392.89
+ORD00789,2025-12-26,CUST0079,Customer_083,South,Telangana,Clothing,Jacket,5,8965,7548.19,1416.81
+ORD00790,2025-01-13,CUST0095,Customer_106,South,Karnataka,Electronics,Laptop,6,8016,5469.05,2546.95
+ORD00791,2025-07-06,CUST0084,Customer_274,North,Haryana,Furniture,Bookshelf,6,9066,6000.55,3065.45
+ORD00792,2025-04-14,CUST0164,Customer_080,East,West Bengal,Electronics,Laptop,7,30737,23991.93,6745.07
+ORD00793,2024-10-29,CUST0243,Customer_149,North,Haryana,Clothing,Jacket,9,27117,20179.74,6937.26
+ORD00794,2025-05-05,CUST0021,Customer_072,South,Telangana,Home & Kitchen,Water Bottle,8,24592,18609.85,5982.15
+ORD00795,2024-04-04,CUST0168,Customer_029,North,Punjab,Electronics,Laptop,7,14735,10075.67,4659.33
+ORD00796,2024-03-26,CUST0276,Customer_229,South,Telangana,Clothing,Jacket,4,10304,6272.2,4031.8
+ORD00797,2025-09-11,CUST0262,Customer_029,North,Haryana,Clothing,T-Shirt,4,17268,11143.51,6124.49
+ORD00798,2024-01-13,CUST0146,Customer_177,East,Odisha,Electronics,Headphones,7,23296,15511.26,7784.74
+ORD00799,2025-03-30,CUST0213,Customer_227,East,Odisha,Clothing,Jeans,9,9153,5626.43,3526.57
+ORD00800,2025-08-24,CUST0045,Customer_074,East,West Bengal,Home & Kitchen,Water Bottle,7,25851,15300.44,10550.56
+ORD00801,2025-08-27,CUST0193,Customer_046,South,Tamil Nadu,Clothing,Jeans,9,27423,15626.58,11796.42
+ORD00802,2025-04-18,CUST0291,Customer_071,North,Punjab,Home & Kitchen,Cookware Set,5,18475,11130.59,7344.41
+ORD00803,2024-11-05,CUST0300,Customer_156,South,Karnataka,Clothing,T-Shirt,5,24185,16861.19,7323.81
+ORD00804,2024-01-03,CUST0079,Customer_135,West,Rajasthan,Home & Kitchen,Water Bottle,8,17112,9549.39,7562.61
+ORD00805,2024-10-21,CUST0214,Customer_092,East,Bihar,Home & Kitchen,Cookware Set,8,10536,7861.37,2674.63
+ORD00806,2024-10-10,CUST0253,Customer_035,West,Rajasthan,Home & Kitchen,Cookware Set,4,2132,1248.94,883.06
+ORD00807,2025-10-05,CUST0244,Customer_062,East,Bihar,Clothing,Jeans,10,38720,31382.71,7337.29
+ORD00808,2024-06-15,CUST0298,Customer_030,East,Bihar,Home & Kitchen,Water Bottle,10,4430,3559.88,870.12
+ORD00809,2024-10-06,CUST0185,Customer_215,South,Tamil Nadu,Clothing,Jeans,3,9681,5798.85,3882.15
+ORD00810,2024-03-19,CUST0264,Customer_100,East,West Bengal,Furniture,Desk,5,23190,17199.65,5990.35
+ORD00811,2024-11-19,CUST0155,Customer_139,South,Karnataka,Home & Kitchen,Mixer Grinder,3,14262,9224.41,5037.59
+ORD00812,2024-01-14,CUST0071,Customer_266,East,West Bengal,Clothing,Jacket,10,31800,25344.42,6455.58
+ORD00813,2024-06-15,CUST0053,Customer_112,East,Odisha,Clothing,Jeans,7,21609,17854.92,3754.08
+ORD00814,2025-06-22,CUST0273,Customer_283,South,Telangana,Furniture,Office Chair,4,19504,14316.49,5187.51
+ORD00815,2024-01-18,CUST0246,Customer_179,North,Punjab,Clothing,Jeans,2,2508,1995.5,512.5
+ORD00816,2025-09-03,CUST0268,Customer_176,East,Bihar,Furniture,Bookshelf,3,11760,9606.95,2153.05
+ORD00817,2025-12-11,CUST0073,Customer_117,South,Telangana,Furniture,Desk,1,1271,783.84,487.16
+ORD00818,2024-04-24,CUST0040,Customer_010,East,West Bengal,Furniture,Office Chair,3,2829,1916.48,912.52
+ORD00819,2025-11-06,CUST0263,Customer_031,West,Gujarat,Electronics,Laptop,4,4732,2649.15,2082.85
+ORD00820,2024-01-11,CUST0050,Customer_064,West,Maharashtra,Furniture,Desk,1,842,539.3,302.7
+ORD00821,2024-05-29,CUST0143,Customer_297,South,Telangana,Furniture,Office Chair,3,9537,5329.06,4207.94
+ORD00822,2024-03-10,CUST0051,Customer_297,East,Odisha,Electronics,Headphones,9,20529,14400.53,6128.47
+ORD00823,2025-07-04,CUST0003,Customer_051,North,Haryana,Furniture,Office Chair,4,10432,6275.18,4156.82
+ORD00824,2024-07-08,CUST0226,Customer_055,South,Telangana,Home & Kitchen,Water Bottle,8,26416,20061.36,6354.64
+ORD00825,2025-02-21,CUST0058,Customer_161,South,Tamil Nadu,Clothing,T-Shirt,7,14385,10131.0,4254.0
+ORD00826,2025-01-04,CUST0148,Customer_286,North,Punjab,Electronics,Smartphone,9,12717,8885.94,3831.06
+ORD00827,2025-04-12,CUST0160,Customer_228,North,Delhi,Furniture,Bookshelf,8,9976,6638.37,3337.63
+ORD00828,2024-03-12,CUST0244,Customer_189,South,Telangana,Clothing,T-Shirt,5,19025,11541.24,7483.76
+ORD00829,2025-06-19,CUST0044,Customer_062,South,Karnataka,Home & Kitchen,Cookware Set,8,9288,6212.84,3075.16
+ORD00830,2024-06-21,CUST0034,Customer_187,South,Tamil Nadu,Clothing,T-Shirt,10,11330,8751.63,2578.37
+ORD00831,2025-03-10,CUST0256,Customer_143,South,Tamil Nadu,Furniture,Office Chair,10,36110,21190.38,14919.62
+ORD00832,2025-02-18,CUST0249,Customer_262,East,Bihar,Clothing,T-Shirt,6,25182,18886.58,6295.42
+ORD00833,2025-05-24,CUST0119,Customer_069,East,West Bengal,Clothing,Jeans,2,2600,1625.54,974.46
+ORD00834,2024-01-28,CUST0092,Customer_196,North,Delhi,Home & Kitchen,Water Bottle,1,858,600.12,257.88
+ORD00835,2025-11-07,CUST0267,Customer_253,East,West Bengal,Furniture,Desk,10,10890,8472.98,2417.02
+ORD00836,2025-07-09,CUST0176,Customer_277,West,Maharashtra,Furniture,Desk,8,34528,24219.27,10308.73
+ORD00837,2025-01-20,CUST0227,Customer_236,North,Delhi,Clothing,T-Shirt,2,6884,4715.78,2168.22
+ORD00838,2024-06-17,CUST0252,Customer_221,North,Delhi,Electronics,Headphones,9,25038,20416.24,4621.76
+ORD00839,2025-08-05,CUST0252,Customer_284,South,Tamil Nadu,Home & Kitchen,Water Bottle,7,30051,23415.84,6635.16
+ORD00840,2024-09-26,CUST0254,Customer_194,West,Gujarat,Clothing,Jacket,3,13350,7565.73,5784.27
+ORD00841,2024-05-11,CUST0188,Customer_179,East,Odisha,Furniture,Bookshelf,1,530,385.38,144.62
+ORD00842,2024-12-31,CUST0211,Customer_180,North,Haryana,Furniture,Bookshelf,7,7679,5209.77,2469.23
+ORD00843,2025-08-29,CUST0044,Customer_034,North,Haryana,Furniture,Office Chair,4,8888,6616.45,2271.55
+ORD00844,2024-02-08,CUST0236,Customer_217,East,West Bengal,Furniture,Bookshelf,3,1383,984.04,398.96
+ORD00845,2025-01-21,CUST0293,Customer_200,West,Gujarat,Electronics,Laptop,8,3856,3261.13,594.87
+ORD00846,2024-07-29,CUST0173,Customer_255,East,Bihar,Electronics,Smartphone,8,8952,6778.98,2173.02
+ORD00847,2024-07-25,CUST0255,Customer_039,East,West Bengal,Home & Kitchen,Mixer Grinder,5,16380,13772.77,2607.23
+ORD00848,2025-02-15,CUST0116,Customer_048,South,Tamil Nadu,Furniture,Desk,1,2735,2321.65,413.35
+ORD00849,2025-06-27,CUST0244,Customer_219,North,Haryana,Furniture,Bookshelf,5,4255,3063.3,1191.7
+ORD00850,2025-03-19,CUST0277,Customer_161,South,Tamil Nadu,Electronics,Smartphone,5,22170,17541.75,4628.25
+ORD00851,2025-07-14,CUST0093,Customer_010,South,Tamil Nadu,Clothing,T-Shirt,5,22605,15506.32,7098.68
+ORD00852,2025-10-15,CUST0273,Customer_223,South,Telangana,Clothing,Jeans,4,16512,10408.85,6103.15
+ORD00853,2024-06-03,CUST0154,Customer_223,North,Haryana,Furniture,Office Chair,6,24528,14577.56,9950.44
+ORD00854,2024-10-20,CUST0083,Customer_132,West,Gujarat,Electronics,Smartphone,4,14712,9269.74,5442.26
+ORD00855,2024-09-08,CUST0159,Customer_238,South,Tamil Nadu,Furniture,Office Chair,2,3056,1856.75,1199.25
+ORD00856,2024-10-06,CUST0070,Customer_015,West,Rajasthan,Clothing,T-Shirt,7,4221,2577.33,1643.67
+ORD00857,2024-02-13,CUST0249,Customer_011,East,Odisha,Home & Kitchen,Cookware Set,9,15669,11646.58,4022.42
+ORD00858,2025-02-20,CUST0187,Customer_047,North,Delhi,Furniture,Bookshelf,10,27410,22206.25,5203.75
+ORD00859,2025-05-27,CUST0062,Customer_268,West,Rajasthan,Electronics,Headphones,4,4864,3508.36,1355.64
+ORD00860,2024-11-16,CUST0169,Customer_300,East,Odisha,Electronics,Smartphone,4,5204,4069.31,1134.69
+ORD00861,2024-04-19,CUST0090,Customer_110,West,Rajasthan,Home & Kitchen,Water Bottle,4,15056,9265.5,5790.5
+ORD00862,2025-01-18,CUST0058,Customer_163,East,Odisha,Clothing,T-Shirt,5,3790,2642.04,1147.96
+ORD00863,2024-05-28,CUST0186,Customer_244,West,Gujarat,Home & Kitchen,Cookware Set,4,10300,8382.45,1917.55
+ORD00864,2025-11-09,CUST0028,Customer_123,East,Odisha,Electronics,Laptop,10,5850,4694.29,1155.71
+ORD00865,2025-12-02,CUST0063,Customer_274,East,Bihar,Clothing,T-Shirt,5,16360,13430.7,2929.3
+ORD00866,2024-09-18,CUST0155,Customer_047,South,Tamil Nadu,Clothing,T-Shirt,1,3519,2914.62,604.38
+ORD00867,2025-10-21,CUST0209,Customer_018,South,Tamil Nadu,Furniture,Office Chair,3,11685,8639.96,3045.04
+ORD00868,2024-12-06,CUST0217,Customer_052,East,West Bengal,Clothing,Jeans,8,29456,24388.07,5067.93
+ORD00869,2025-09-08,CUST0281,Customer_168,South,Telangana,Furniture,Desk,9,7587,4973.71,2613.29
+ORD00870,2025-10-18,CUST0070,Customer_002,West,Rajasthan,Electronics,Laptop,1,1805,1333.98,471.02
+ORD00871,2024-04-23,CUST0081,Customer_128,West,Maharashtra,Home & Kitchen,Cookware Set,5,14350,10371.36,3978.64
+ORD00872,2024-05-16,CUST0134,Customer_089,South,Telangana,Home & Kitchen,Cookware Set,7,20412,13991.34,6420.66
+ORD00873,2025-02-06,CUST0194,Customer_293,East,Odisha,Furniture,Office Chair,2,7390,4879.47,2510.53
+ORD00874,2025-04-18,CUST0102,Customer_135,South,Karnataka,Electronics,Laptop,9,19557,16076.9,3480.1
+ORD00875,2024-06-01,CUST0046,Customer_189,South,Karnataka,Clothing,T-Shirt,10,38130,27839.39,10290.61
+ORD00876,2025-04-09,CUST0254,Customer_061,South,Telangana,Electronics,Smartphone,1,4607,3135.28,1471.72
+ORD00877,2025-05-21,CUST0196,Customer_067,South,Telangana,Furniture,Office Chair,4,9920,6312.97,3607.03
+ORD00878,2024-07-12,CUST0215,Customer_093,West,Maharashtra,Home & Kitchen,Mixer Grinder,4,10472,8042.63,2429.37
+ORD00879,2025-04-06,CUST0128,Customer_190,West,Maharashtra,Electronics,Laptop,5,12220,7584.29,4635.71
+ORD00880,2025-12-10,CUST0204,Customer_109,West,Maharashtra,Electronics,Laptop,8,11128,9029.63,2098.37
+ORD00881,2025-07-24,CUST0031,Customer_027,West,Rajasthan,Clothing,T-Shirt,10,23990,13720.28,10269.72
+ORD00882,2025-05-31,CUST0196,Customer_155,East,West Bengal,Clothing,Jeans,6,4032,2224.08,1807.92
+ORD00883,2024-07-02,CUST0134,Customer_087,West,Rajasthan,Furniture,Bookshelf,3,14649,8237.68,6411.32
+ORD00884,2025-06-27,CUST0222,Customer_073,West,Gujarat,Clothing,Jeans,3,3102,2001.4,1100.6
+ORD00885,2024-10-14,CUST0185,Customer_221,East,West Bengal,Furniture,Bookshelf,1,1347,942.58,404.42
+ORD00886,2024-06-17,CUST0162,Customer_252,East,Odisha,Home & Kitchen,Mixer Grinder,5,22675,14600.5,8074.5
+ORD00887,2024-02-25,CUST0118,Customer_094,South,Telangana,Home & Kitchen,Cookware Set,8,5880,3567.25,2312.75
+ORD00888,2025-05-21,CUST0021,Customer_227,North,Punjab,Furniture,Desk,3,12378,8428.54,3949.46
+ORD00889,2024-05-31,CUST0064,Customer_179,East,Bihar,Clothing,Jacket,8,32392,22606.27,9785.73
+ORD00890,2024-10-06,CUST0289,Customer_300,North,Delhi,Furniture,Desk,3,5034,3901.25,1132.75
+ORD00891,2024-03-19,CUST0127,Customer_256,South,Telangana,Electronics,Laptop,9,44775,27051.74,17723.26
+ORD00892,2025-08-27,CUST0055,Customer_166,North,Punjab,Electronics,Laptop,5,6495,4340.29,2154.71
+ORD00893,2024-10-02,CUST0003,Customer_169,South,Karnataka,Electronics,Smartphone,8,33840,23221.57,10618.43
+ORD00894,2025-08-05,CUST0067,Customer_109,North,Haryana,Home & Kitchen,Mixer Grinder,8,23688,19761.13,3926.87
+ORD00895,2025-07-14,CUST0196,Customer_048,North,Haryana,Furniture,Desk,6,4524,3497.69,1026.31
+ORD00896,2024-08-01,CUST0084,Customer_199,West,Gujarat,Electronics,Headphones,4,14268,8229.16,6038.84
+ORD00897,2025-03-18,CUST0159,Customer_068,West,Gujarat,Home & Kitchen,Cookware Set,3,3861,2469.36,1391.64
+ORD00898,2025-04-01,CUST0199,Customer_244,East,Bihar,Electronics,Smartphone,6,26994,16465.3,10528.7
+ORD00899,2025-01-12,CUST0096,Customer_223,East,Bihar,Home & Kitchen,Mixer Grinder,7,7273,5650.74,1622.26
+ORD00900,2025-11-23,CUST0115,Customer_080,West,Maharashtra,Electronics,Laptop,9,27891,23483.71,4407.29
+ORD00901,2025-03-23,CUST0041,Customer_245,West,Rajasthan,Home & Kitchen,Cookware Set,9,8883,5660.34,3222.66
+ORD00902,2024-10-29,CUST0292,Customer_025,East,West Bengal,Electronics,Headphones,5,11680,8256.91,3423.09
+ORD00903,2024-04-06,CUST0238,Customer_292,North,Delhi,Clothing,Jacket,2,8966,6074.23,2891.77
+ORD00904,2024-01-17,CUST0059,Customer_237,East,Odisha,Furniture,Desk,10,9690,7563.96,2126.04
+ORD00905,2025-12-22,CUST0153,Customer_161,South,Karnataka,Clothing,T-Shirt,1,982,662.73,319.27
+ORD00906,2024-07-10,CUST0109,Customer_095,West,Rajasthan,Clothing,Jeans,10,24710,16120.81,8589.19
+ORD00907,2024-01-19,CUST0003,Customer_203,North,Haryana,Home & Kitchen,Mixer Grinder,5,5855,3982.22,1872.78
+ORD00908,2025-11-04,CUST0250,Customer_156,North,Delhi,Electronics,Headphones,8,32552,24659.5,7892.5
+ORD00909,2024-05-18,CUST0008,Customer_098,East,Bihar,Home & Kitchen,Cookware Set,7,19453,11210.58,8242.42
+ORD00910,2025-10-26,CUST0075,Customer_124,North,Delhi,Home & Kitchen,Water Bottle,4,2076,1272.11,803.89
+ORD00911,2025-04-19,CUST0076,Customer_243,West,Rajasthan,Clothing,Jacket,4,4020,2573.91,1446.09
+ORD00912,2025-03-31,CUST0249,Customer_242,West,Maharashtra,Electronics,Smartphone,3,4644,3583.47,1060.53
+ORD00913,2025-02-05,CUST0027,Customer_171,North,Punjab,Home & Kitchen,Mixer Grinder,4,7796,4977.35,2818.65
+ORD00914,2025-08-15,CUST0284,Customer_149,North,Delhi,Home & Kitchen,Cookware Set,7,25935,20866.91,5068.09
+ORD00915,2025-09-18,CUST0250,Customer_119,North,Punjab,Clothing,T-Shirt,8,36040,26212.32,9827.68
+ORD00916,2024-10-01,CUST0214,Customer_243,North,Haryana,Electronics,Laptop,7,20209,14469.17,5739.83
+ORD00917,2024-01-22,CUST0083,Customer_148,North,Punjab,Home & Kitchen,Mixer Grinder,6,23832,18094.55,5737.45
+ORD00918,2025-08-24,CUST0174,Customer_240,South,Tamil Nadu,Furniture,Bookshelf,8,17608,12365.94,5242.06
+ORD00919,2025-11-20,CUST0185,Customer_242,South,Tamil Nadu,Home & Kitchen,Water Bottle,7,25998,20796.43,5201.57
+ORD00920,2024-05-12,CUST0089,Customer_103,South,Telangana,Furniture,Office Chair,5,5030,3773.09,1256.91
+ORD00921,2025-05-20,CUST0156,Customer_121,South,Telangana,Clothing,Jeans,2,7414,6175.24,1238.76
+ORD00922,2024-12-31,CUST0082,Customer_090,South,Telangana,Electronics,Laptop,1,3239,2637.43,601.57
+ORD00923,2024-05-03,CUST0288,Customer_115,North,Delhi,Furniture,Bookshelf,7,8631,6346.11,2284.89
+ORD00924,2025-07-24,CUST0137,Customer_078,West,Gujarat,Furniture,Bookshelf,6,4092,3195.97,896.03
+ORD00925,2024-04-23,CUST0055,Customer_053,North,Haryana,Electronics,Laptop,8,32352,27136.67,5215.33
+ORD00926,2025-01-05,CUST0081,Customer_150,North,Haryana,Electronics,Smartphone,3,3801,3083.6,717.4
+ORD00927,2024-12-08,CUST0071,Customer_063,West,Rajasthan,Clothing,Jeans,2,3126,2326.14,799.86
+ORD00928,2025-04-30,CUST0175,Customer_147,South,Tamil Nadu,Clothing,T-Shirt,1,2309,1848.23,460.77
+ORD00929,2025-11-11,CUST0126,Customer_078,South,Karnataka,Furniture,Desk,6,22194,14607.94,7586.06
+ORD00930,2025-04-14,CUST0265,Customer_186,West,Maharashtra,Electronics,Headphones,7,25802,21297.13,4504.87
+ORD00931,2024-03-27,CUST0174,Customer_162,North,Punjab,Electronics,Headphones,1,4538,3780.58,757.42
+ORD00932,2025-11-07,CUST0078,Customer_295,West,Maharashtra,Clothing,T-Shirt,1,3521,2738.48,782.52
+ORD00933,2025-11-28,CUST0284,Customer_156,North,Haryana,Home & Kitchen,Water Bottle,9,24498,16555.54,7942.46
+ORD00934,2024-05-30,CUST0207,Customer_229,East,Odisha,Electronics,Laptop,5,23115,16946.08,6168.92
+ORD00935,2025-10-26,CUST0208,Customer_102,South,Telangana,Home & Kitchen,Mixer Grinder,10,39220,29777.44,9442.56
+ORD00936,2024-05-09,CUST0267,Customer_277,East,West Bengal,Electronics,Laptop,9,27360,18249.07,9110.93
+ORD00937,2024-12-14,CUST0082,Customer_012,East,West Bengal,Electronics,Smartphone,9,43380,27922.65,15457.35
+ORD00938,2024-11-07,CUST0217,Customer_259,North,Haryana,Home & Kitchen,Mixer Grinder,5,11385,9104.23,2280.77
+ORD00939,2024-12-28,CUST0064,Customer_025,North,Haryana,Electronics,Laptop,6,14562,10748.17,3813.83
+ORD00940,2024-08-29,CUST0298,Customer_290,North,Punjab,Furniture,Desk,10,3420,2345.93,1074.07
+ORD00941,2025-01-21,CUST0267,Customer_127,South,Tamil Nadu,Furniture,Desk,5,24960,18763.18,6196.82
+ORD00942,2025-01-04,CUST0233,Customer_051,North,Punjab,Clothing,Jacket,10,18770,14956.93,3813.07
+ORD00943,2025-03-11,CUST0067,Customer_244,South,Telangana,Clothing,T-Shirt,7,6797,3926.45,2870.55
+ORD00944,2025-07-26,CUST0266,Customer_203,South,Tamil Nadu,Electronics,Smartphone,6,27666,18559.08,9106.92
+ORD00945,2025-05-16,CUST0214,Customer_084,East,Bihar,Clothing,Jeans,7,27335,20684.54,6650.46
+ORD00946,2025-12-22,CUST0263,Customer_271,South,Telangana,Electronics,Headphones,8,32392,19072.91,13319.09
+ORD00947,2024-06-09,CUST0287,Customer_190,North,Haryana,Furniture,Office Chair,8,33416,18705.68,14710.32
+ORD00948,2024-10-23,CUST0021,Customer_268,North,Haryana,Clothing,T-Shirt,2,2580,1705.06,874.94
+ORD00949,2025-05-12,CUST0015,Customer_074,South,Karnataka,Furniture,Bookshelf,5,16835,10790.87,6044.13
+ORD00950,2024-08-08,CUST0094,Customer_251,South,Telangana,Clothing,T-Shirt,1,2799,2285.99,513.01
+ORD00951,2025-03-03,CUST0247,Customer_294,North,Delhi,Clothing,Jacket,6,5118,4151.35,966.65
+ORD00952,2025-09-12,CUST0068,Customer_071,East,Bihar,Clothing,Jeans,6,20340,14086.84,6253.16
+ORD00953,2024-11-29,CUST0046,Customer_210,West,Gujarat,Home & Kitchen,Cookware Set,8,12160,9848.43,2311.57
+ORD00954,2025-11-17,CUST0227,Customer_143,West,Maharashtra,Clothing,T-Shirt,6,28386,16002.49,12383.51
+ORD00955,2025-12-25,CUST0159,Customer_288,North,Delhi,Home & Kitchen,Water Bottle,1,4985,3684.08,1300.92
+ORD00956,2025-07-08,CUST0296,Customer_028,North,Haryana,Clothing,Jacket,2,3752,3138.74,613.26
+ORD00957,2025-06-28,CUST0093,Customer_010,South,Tamil Nadu,Clothing,Jacket,1,1285,960.51,324.49
+ORD00958,2025-06-30,CUST0165,Customer_206,East,West Bengal,Furniture,Office Chair,10,39390,22664.78,16725.22
+ORD00959,2024-01-25,CUST0271,Customer_163,North,Punjab,Electronics,Laptop,6,23280,14064.67,9215.33
+ORD00960,2024-10-19,CUST0074,Customer_094,West,Gujarat,Electronics,Smartphone,2,2226,1586.1,639.9
+ORD00961,2024-03-01,CUST0167,Customer_093,East,West Bengal,Electronics,Headphones,5,18180,13700.13,4479.87
+ORD00962,2024-05-25,CUST0212,Customer_166,North,Haryana,Electronics,Laptop,5,17470,10126.02,7343.98
+ORD00963,2025-09-03,CUST0122,Customer_253,East,Odisha,Electronics,Smartphone,1,1959,1218.28,740.72
+ORD00964,2025-02-20,CUST0034,Customer_248,West,Maharashtra,Furniture,Desk,1,2907,2004.22,902.78
+ORD00965,2025-08-23,CUST0052,Customer_127,North,Punjab,Home & Kitchen,Cookware Set,4,1808,1140.39,667.61
+ORD00966,2025-10-13,CUST0257,Customer_105,South,Tamil Nadu,Home & Kitchen,Mixer Grinder,7,27671,15915.6,11755.4
+ORD00967,2025-03-09,CUST0285,Customer_232,South,Tamil Nadu,Clothing,Jacket,3,6924,4924.77,1999.23
+ORD00968,2024-06-20,CUST0001,Customer_031,North,Delhi,Clothing,Jeans,10,26690,19908.54,6781.46
+ORD00969,2025-10-09,CUST0109,Customer_300,West,Gujarat,Home & Kitchen,Mixer Grinder,5,17070,14505.62,2564.38
+ORD00970,2024-04-01,CUST0203,Customer_063,East,West Bengal,Electronics,Headphones,9,44208,25241.91,18966.09
+ORD00971,2025-05-31,CUST0163,Customer_176,South,Telangana,Clothing,Jacket,5,19190,11768.36,7421.64
+ORD00972,2024-11-25,CUST0175,Customer_108,East,Bihar,Clothing,Jeans,5,11570,8662.26,2907.74
+ORD00973,2024-01-03,CUST0244,Customer_003,West,Rajasthan,Furniture,Bookshelf,1,1395,1037.79,357.21
+ORD00974,2025-12-21,CUST0251,Customer_202,North,Haryana,Electronics,Headphones,7,33971,27808.0,6163.0
+ORD00975,2025-11-18,CUST0228,Customer_064,North,Haryana,Home & Kitchen,Cookware Set,2,9424,5270.69,4153.31
+ORD00976,2025-12-14,CUST0005,Customer_064,East,Odisha,Home & Kitchen,Mixer Grinder,6,20808,12550.47,8257.53
+ORD00977,2024-01-21,CUST0144,Customer_184,West,Gujarat,Furniture,Office Chair,8,3008,1854.3,1153.7
+ORD00978,2025-05-20,CUST0186,Customer_019,South,Karnataka,Home & Kitchen,Mixer Grinder,5,10555,6547.03,4007.97
+ORD00979,2025-10-15,CUST0203,Customer_057,East,Odisha,Home & Kitchen,Water Bottle,10,20120,11109.07,9010.93
+ORD00980,2025-11-06,CUST0290,Customer_290,East,Bihar,Clothing,Jacket,8,13568,9708.39,3859.61
+ORD00981,2025-08-06,CUST0117,Customer_268,South,Karnataka,Home & Kitchen,Mixer Grinder,3,2496,1468.22,1027.78
+ORD00982,2025-11-28,CUST0287,Customer_233,East,West Bengal,Home & Kitchen,Cookware Set,1,4665,3425.68,1239.32
+ORD00983,2025-02-20,CUST0141,Customer_063,North,Punjab,Home & Kitchen,Cookware Set,1,2946,2002.59,943.41
+ORD00984,2024-08-17,CUST0025,Customer_143,West,Gujarat,Furniture,Bookshelf,9,5904,4812.59,1091.41
+ORD00985,2024-12-08,CUST0042,Customer_293,West,Rajasthan,Clothing,Jeans,6,2052,1369.83,682.17
+ORD00986,2024-07-20,CUST0085,Customer_169,North,Haryana,Furniture,Office Chair,7,6363,5250.1,1112.9
+ORD00987,2024-01-25,CUST0172,Customer_129,East,West Bengal,Home & Kitchen,Cookware Set,2,1056,732.85,323.15
+ORD00988,2024-12-07,CUST0267,Customer_122,South,Karnataka,Clothing,Jeans,4,12364,9888.17,2475.83
+ORD00989,2025-08-15,CUST0064,Customer_044,North,Haryana,Home & Kitchen,Mixer Grinder,8,8664,6390.61,2273.39
+ORD00990,2024-03-04,CUST0227,Customer_029,North,Delhi,Clothing,T-Shirt,6,4992,3917.69,1074.31
+ORD00991,2024-02-27,CUST0287,Customer_027,East,Bihar,Home & Kitchen,Cookware Set,7,5866,3405.5,2460.5
+ORD00992,2025-09-05,CUST0006,Customer_233,East,Odisha,Clothing,T-Shirt,2,7334,4546.59,2787.41
+ORD00993,2025-11-22,CUST0014,Customer_233,West,Gujarat,Clothing,T-Shirt,10,11290,7359.78,3930.22
+ORD00994,2025-12-31,CUST0035,Customer_100,East,Bihar,Furniture,Office Chair,2,2282,1263.51,1018.49
+ORD00995,2025-09-27,CUST0228,Customer_096,South,Telangana,Clothing,Jacket,5,16055,10858.03,5196.97
+ORD00996,2025-03-22,CUST0263,Customer_184,South,Karnataka,Electronics,Laptop,1,1345,865.51,479.49
+ORD00997,2025-09-09,CUST0176,Customer_150,East,Bihar,Clothing,Jacket,3,4521,3123.37,1397.63
+ORD00998,2025-06-03,CUST0287,Customer_028,East,West Bengal,Clothing,Jacket,10,14840,8417.18,6422.82
+ORD00999,2024-12-15,CUST0097,Customer_244,West,Gujarat,Furniture,Office Chair,4,7792,6121.23,1670.77
+ORD01000,2025-09-22,CUST0154,Customer_215,West,Rajasthan,Home & Kitchen,Water Bottle,6,29622,24850.47,4771.53
+ORD01001,2024-01-04,CUST0115,Customer_118,East,West Bengal,Electronics,Smartphone,8,5160,3605.7,1554.3
+ORD01002,2024-12-05,CUST0193,Customer_106,West,Rajasthan,Furniture,Office Chair,4,16952,13059.41,3892.59
+ORD01003,2024-01-31,CUST0285,Customer_059,West,Maharashtra,Electronics,Laptop,6,2286,1307.86,978.14
+ORD01004,2024-01-31,CUST0102,Customer_102,South,Tamil Nadu,Clothing,Jeans,4,12992,7316.72,5675.28
+ORD01005,2025-07-21,CUST0126,Customer_092,East,West Bengal,Furniture,Office Chair,5,8635,5629.55,3005.45
+ORD01006,2025-11-24,CUST0071,Customer_195,South,Karnataka,Electronics,Headphones,5,5640,3137.52,2502.48
+ORD01007,2025-01-16,CUST0088,Customer_270,North,Punjab,Furniture,Office Chair,5,20185,12555.98,7629.02
+ORD01008,2024-05-13,CUST0098,Customer_099,West,Rajasthan,Electronics,Smartphone,2,2966,2416.75,549.25
+ORD01009,2024-09-07,CUST0024,Customer_097,West,Rajasthan,Furniture,Bookshelf,6,22908,19313.61,3594.39
+ORD01010,2024-10-13,CUST0065,Customer_261,East,West Bengal,Furniture,Bookshelf,4,2944,2175.14,768.86
+ORD01011,2025-09-21,CUST0034,Customer_086,West,Maharashtra,Home & Kitchen,Water Bottle,2,8310,6542.46,1767.54
+ORD01012,2024-07-02,CUST0165,Customer_192,West,Rajasthan,Clothing,Jacket,6,26304,18561.88,7742.12
+ORD01013,2025-10-15,CUST0299,Customer_019,West,Rajasthan,Clothing,Jeans,8,19984,14475.53,5508.47
+ORD01014,2024-11-09,CUST0218,Customer_194,South,Karnataka,Furniture,Office Chair,8,17760,11877.36,5882.64
+ORD01015,2024-03-27,CUST0152,Customer_228,South,Tamil Nadu,Furniture,Desk,9,8946,5280.82,3665.18
+ORD01016,2024-12-10,CUST0219,Customer_231,East,West Bengal,Home & Kitchen,Mixer Grinder,1,4111,2892.82,1218.18
+ORD01017,2025-01-26,CUST0013,Customer_092,West,Gujarat,Clothing,T-Shirt,6,26250,16934.04,9315.96
+ORD01018,2024-10-28,CUST0257,Customer_263,West,Maharashtra,Furniture,Desk,2,6482,5318.11,1163.89
+ORD01019,2024-02-09,CUST0280,Customer_103,North,Punjab,Furniture,Office Chair,2,2542,1452.51,1089.49
+ORD01020,2025-11-30,CUST0141,Customer_098,East,West Bengal,Home & Kitchen,Cookware Set,6,14088,9027.8,5060.2
+ORD01021,2024-11-02,CUST0145,Customer_178,South,Telangana,Home & Kitchen,Water Bottle,9,21951,12129.25,9821.75
+ORD01022,2024-06-01,CUST0204,Customer_117,West,Gujarat,Home & Kitchen,Mixer Grinder,1,4166,3108.78,1057.22
+ORD01023,2025-08-24,CUST0283,Customer_240,South,Telangana,Home & Kitchen,Water Bottle,4,16744,10383.24,6360.76
+ORD01024,2025-12-15,CUST0214,Customer_108,West,Gujarat,Electronics,Smartphone,6,11028,7484.02,3543.98
+ORD01025,2024-05-11,CUST0157,Customer_005,West,Gujarat,Clothing,Jacket,1,3369,1993.39,1375.61
+ORD01026,2025-12-03,CUST0207,Customer_276,West,Rajasthan,Furniture,Bookshelf,6,12882,8704.94,4177.06
+ORD01027,2024-05-22,CUST0079,Customer_170,East,Odisha,Home & Kitchen,Mixer Grinder,1,4949,3887.97,1061.03
+ORD01028,2024-07-11,CUST0244,Customer_056,West,Gujarat,Furniture,Office Chair,7,5747,4082.37,1664.63
+ORD01029,2025-11-22,CUST0284,Customer_091,East,Bihar,Clothing,Jeans,5,5315,3196.59,2118.41
+ORD01030,2024-03-12,CUST0198,Customer_146,North,Haryana,Home & Kitchen,Mixer Grinder,8,4152,2516.14,1635.86
+ORD01031,2025-01-12,CUST0266,Customer_006,South,Karnataka,Furniture,Desk,9,7857,5393.04,2463.96
+ORD01032,2024-05-12,CUST0275,Customer_215,South,Tamil Nadu,Clothing,T-Shirt,7,11102,9402.05,1699.95
+ORD01033,2024-07-29,CUST0159,Customer_222,West,Rajasthan,Electronics,Smartphone,7,13937,8208.61,5728.39
+ORD01034,2025-05-29,CUST0235,Customer_142,West,Maharashtra,Home & Kitchen,Mixer Grinder,10,28420,20639.96,7780.04
+ORD01035,2025-09-11,CUST0127,Customer_270,South,Karnataka,Electronics,Headphones,8,6592,5256.29,1335.71
+ORD01036,2024-04-03,CUST0148,Customer_234,East,Bihar,Clothing,Jeans,8,32720,23651.32,9068.68
+ORD01037,2024-06-28,CUST0213,Customer_128,East,Bihar,Home & Kitchen,Water Bottle,5,17515,12854.4,4660.6
+ORD01038,2025-11-05,CUST0094,Customer_292,South,Telangana,Home & Kitchen,Water Bottle,7,28350,18864.08,9485.92
+ORD01039,2024-06-10,CUST0141,Customer_276,North,Punjab,Home & Kitchen,Water Bottle,1,2263,1845.84,417.16
+ORD01040,2025-07-20,CUST0063,Customer_189,East,Bihar,Electronics,Smartphone,4,17368,11695.32,5672.68
+ORD01041,2024-09-15,CUST0107,Customer_260,North,Delhi,Clothing,Jacket,6,21954,15044.65,6909.35
+ORD01042,2025-02-12,CUST0100,Customer_204,North,Punjab,Electronics,Laptop,2,8166,5425.05,2740.95
+ORD01043,2025-04-20,CUST0249,Customer_237,North,Delhi,Furniture,Desk,2,2836,1838.11,997.89
+ORD01044,2024-10-12,CUST0083,Customer_088,North,Delhi,Clothing,Jacket,4,15540,9200.87,6339.13
+ORD01045,2025-02-04,CUST0087,Customer_040,North,Haryana,Electronics,Smartphone,3,8127,4772.54,3354.46
+ORD01046,2024-08-09,CUST0018,Customer_273,North,Haryana,Furniture,Desk,3,11727,7709.64,4017.36
+ORD01047,2025-11-06,CUST0053,Customer_200,South,Tamil Nadu,Home & Kitchen,Water Bottle,1,4583,3401.98,1181.02
+ORD01048,2025-01-21,CUST0104,Customer_128,East,Odisha,Electronics,Laptop,10,3380,1908.35,1471.65
+ORD01049,2024-01-15,CUST0173,Customer_099,East,West Bengal,Furniture,Office Chair,2,862,583.15,278.85
+ORD01050,2025-06-08,CUST0056,Customer_168,North,Delhi,Electronics,Smartphone,3,5004,2818.27,2185.73
+ORD01051,2025-02-08,CUST0220,Customer_062,East,Bihar,Home & Kitchen,Cookware Set,4,7984,6629.1,1354.9
+ORD01052,2025-02-15,CUST0162,Customer_007,South,Karnataka,Electronics,Smartphone,6,17694,10653.32,7040.68
+ORD01053,2024-10-12,CUST0189,Customer_023,West,Maharashtra,Clothing,Jeans,4,3360,2511.23,848.77
+ORD01054,2024-04-14,CUST0275,Customer_292,North,Delhi,Clothing,T-Shirt,5,21960,18554.68,3405.32
+ORD01055,2025-12-14,CUST0199,Customer_069,South,Tamil Nadu,Electronics,Smartphone,10,29570,24969.64,4600.36
+ORD01056,2024-01-19,CUST0300,Customer_230,East,West Bengal,Home & Kitchen,Cookware Set,6,25494,14538.06,10955.94
+ORD01057,2024-01-14,CUST0120,Customer_011,West,Rajasthan,Home & Kitchen,Cookware Set,4,17696,12851.55,4844.45
+ORD01058,2024-03-02,CUST0071,Customer_192,North,Punjab,Furniture,Office Chair,7,16065,11822.71,4242.29
+ORD01059,2024-02-08,CUST0122,Customer_228,West,Gujarat,Furniture,Office Chair,3,10134,6195.07,3938.93
+ORD01060,2025-02-28,CUST0148,Customer_013,East,West Bengal,Furniture,Desk,6,3744,2644.24,1099.76
+ORD01061,2024-02-25,CUST0128,Customer_114,South,Telangana,Furniture,Bookshelf,6,13704,8383.36,5320.64
+ORD01062,2024-03-07,CUST0252,Customer_036,West,Rajasthan,Furniture,Bookshelf,3,11769,8696.52,3072.48
+ORD01063,2024-06-26,CUST0282,Customer_105,South,Karnataka,Home & Kitchen,Cookware Set,3,5916,3476.65,2439.35
+ORD01064,2024-07-21,CUST0126,Customer_218,South,Telangana,Electronics,Smartphone,7,28882,18583.8,10298.2
+ORD01065,2025-10-12,CUST0104,Customer_140,South,Telangana,Furniture,Office Chair,5,13185,9531.79,3653.21
+ORD01066,2025-03-27,CUST0217,Customer_259,West,Maharashtra,Furniture,Bookshelf,7,23758,14262.64,9495.36
+ORD01067,2024-03-26,CUST0154,Customer_276,West,Maharashtra,Clothing,Jeans,1,3424,2322.22,1101.78
+ORD01068,2024-11-09,CUST0233,Customer_146,South,Telangana,Home & Kitchen,Water Bottle,3,7221,4795.72,2425.28
+ORD01069,2025-04-25,CUST0101,Customer_080,West,Rajasthan,Home & Kitchen,Mixer Grinder,8,7112,4622.59,2489.41
+ORD01070,2025-03-01,CUST0203,Customer_192,South,Karnataka,Electronics,Laptop,9,30285,21121.85,9163.15
+ORD01071,2024-02-09,CUST0064,Customer_198,West,Gujarat,Furniture,Desk,10,8830,5939.38,2890.62
+ORD01072,2025-05-15,CUST0189,Customer_030,South,Karnataka,Clothing,T-Shirt,5,15775,11087.97,4687.03
+ORD01073,2025-01-05,CUST0015,Customer_076,West,Gujarat,Home & Kitchen,Water Bottle,4,9140,6336.92,2803.08
+ORD01074,2025-08-15,CUST0083,Customer_007,East,Bihar,Clothing,Jeans,3,7149,4462.58,2686.42
+ORD01075,2024-03-23,CUST0266,Customer_097,North,Delhi,Home & Kitchen,Cookware Set,7,24899,18968.58,5930.42
+ORD01076,2025-06-29,CUST0196,Customer_158,West,Maharashtra,Clothing,T-Shirt,5,13875,9715.19,4159.81
+ORD01077,2024-12-18,CUST0074,Customer_138,West,Rajasthan,Electronics,Smartphone,2,9980,7814.41,2165.59
+ORD01078,2025-05-18,CUST0001,Customer_050,South,Telangana,Clothing,T-Shirt,5,1760,1489.15,270.85
+ORD01079,2025-03-17,CUST0088,Customer_091,North,Haryana,Clothing,T-Shirt,9,33426,24947.71,8478.29
+ORD01080,2025-05-29,CUST0057,Customer_231,East,West Bengal,Home & Kitchen,Water Bottle,3,5766,4012.8,1753.2
+ORD01081,2024-07-15,CUST0133,Customer_210,South,Karnataka,Furniture,Office Chair,1,1796,1423.79,372.21
+ORD01082,2024-03-28,CUST0194,Customer_064,West,Rajasthan,Home & Kitchen,Mixer Grinder,2,3320,1905.49,1414.51
+ORD01083,2025-11-19,CUST0052,Customer_005,East,West Bengal,Furniture,Bookshelf,1,2223,1541.36,681.64
+ORD01084,2025-06-18,CUST0004,Customer_193,North,Punjab,Electronics,Laptop,10,6420,3717.52,2702.48
+ORD01085,2025-11-29,CUST0176,Customer_162,East,Odisha,Clothing,Jeans,6,22908,14912.31,7995.69
+ORD01086,2024-12-30,CUST0170,Customer_052,South,Tamil Nadu,Home & Kitchen,Cookware Set,7,23800,17451.18,6348.82
+ORD01087,2024-05-05,CUST0272,Customer_144,North,Punjab,Home & Kitchen,Water Bottle,7,10059,5609.95,4449.05
+ORD01088,2025-11-07,CUST0097,Customer_002,South,Tamil Nadu,Clothing,Jeans,10,41920,29531.56,12388.44
+ORD01089,2024-11-29,CUST0228,Customer_120,East,West Bengal,Home & Kitchen,Cookware Set,6,4044,3400.52,643.48
+ORD01090,2025-05-02,CUST0052,Customer_198,West,Gujarat,Home & Kitchen,Water Bottle,10,9660,6322.47,3337.53
+ORD01091,2025-05-31,CUST0017,Customer_066,East,Bihar,Furniture,Office Chair,3,13680,11120.06,2559.94
+ORD01092,2025-04-01,CUST0060,Customer_247,West,Maharashtra,Furniture,Desk,9,37116,22285.03,14830.97
+ORD01093,2024-01-30,CUST0083,Customer_168,South,Karnataka,Furniture,Office Chair,3,3096,1800.76,1295.24
+ORD01094,2025-11-17,CUST0064,Customer_070,West,Gujarat,Furniture,Office Chair,5,21005,17548.65,3456.35
+ORD01095,2025-09-07,CUST0034,Customer_176,West,Maharashtra,Home & Kitchen,Water Bottle,6,12798,10616.38,2181.62
+ORD01096,2025-03-23,CUST0120,Customer_115,West,Rajasthan,Home & Kitchen,Water Bottle,7,34321,28825.33,5495.67
+ORD01097,2025-08-29,CUST0097,Customer_060,East,West Bengal,Furniture,Desk,2,2424,1398.02,1025.98
+ORD01098,2025-08-27,CUST0275,Customer_098,East,West Bengal,Furniture,Bookshelf,7,2191,1409.34,781.66
+ORD01099,2025-09-08,CUST0114,Customer_055,West,Gujarat,Furniture,Bookshelf,6,8004,5650.23,2353.77
+ORD01100,2024-10-30,CUST0113,Customer_256,West,Maharashtra,Clothing,Jacket,8,23104,13710.15,9393.85
+ORD01101,2025-12-20,CUST0018,Customer_164,West,Maharashtra,Home & Kitchen,Mixer Grinder,5,7470,5782.66,1687.34
+ORD01102,2025-12-24,CUST0294,Customer_245,East,Bihar,Home & Kitchen,Water Bottle,2,5080,4313.2,766.8
+ORD01103,2024-12-07,CUST0079,Customer_108,South,Tamil Nadu,Furniture,Desk,7,5467,4616.02,850.98
+ORD01104,2025-02-05,CUST0154,Customer_082,South,Telangana,Home & Kitchen,Water Bottle,1,1766,1425.22,340.78
+ORD01105,2024-12-22,CUST0201,Customer_201,North,Haryana,Clothing,T-Shirt,6,22560,16996.02,5563.98
+ORD01106,2024-07-18,CUST0281,Customer_202,North,Haryana,Home & Kitchen,Water Bottle,5,13065,9915.2,3149.8
+ORD01107,2025-12-27,CUST0156,Customer_235,North,Delhi,Furniture,Bookshelf,10,7430,5980.73,1449.27
+ORD01108,2024-05-28,CUST0108,Customer_112,South,Telangana,Electronics,Headphones,8,34016,21679.23,12336.77
+ORD01109,2025-08-12,CUST0053,Customer_076,South,Telangana,Home & Kitchen,Cookware Set,1,3267,2508.36,758.64
+ORD01110,2025-04-30,CUST0092,Customer_027,West,Gujarat,Home & Kitchen,Cookware Set,3,2283,1321.43,961.57
+ORD01111,2025-10-04,CUST0207,Customer_126,North,Haryana,Home & Kitchen,Cookware Set,6,23118,19440.34,3677.66
+ORD01112,2025-09-02,CUST0089,Customer_193,North,Delhi,Furniture,Office Chair,7,30114,19297.26,10816.74
+ORD01113,2025-03-31,CUST0189,Customer_006,North,Punjab,Home & Kitchen,Cookware Set,7,17878,13224.36,4653.64
+ORD01114,2025-06-05,CUST0116,Customer_012,North,Delhi,Electronics,Smartphone,2,8614,6395.23,2218.77
+ORD01115,2025-10-22,CUST0223,Customer_153,West,Gujarat,Home & Kitchen,Water Bottle,2,3566,2372.06,1193.94
+ORD01116,2025-12-18,CUST0011,Customer_202,South,Karnataka,Furniture,Bookshelf,2,9406,5695.02,3710.98
+ORD01117,2025-10-29,CUST0064,Customer_107,West,Maharashtra,Clothing,Jacket,10,47150,36028.48,11121.52
+ORD01118,2024-11-17,CUST0063,Customer_021,North,Delhi,Home & Kitchen,Mixer Grinder,3,1029,737.19,291.81
+ORD01119,2024-02-05,CUST0044,Customer_064,South,Telangana,Furniture,Office Chair,3,3057,2197.22,859.78
+ORD01120,2025-11-04,CUST0001,Customer_128,East,Odisha,Clothing,Jacket,3,11295,9523.16,1771.84
+ORD01121,2025-08-13,CUST0252,Customer_161,East,West Bengal,Clothing,Jacket,5,23375,15976.25,7398.75
+ORD01122,2025-11-09,CUST0023,Customer_122,East,Bihar,Clothing,Jacket,9,18171,13744.16,4426.84
+ORD01123,2025-09-08,CUST0283,Customer_111,North,Delhi,Electronics,Headphones,5,10315,8636.0,1679.0
+ORD01124,2024-09-18,CUST0134,Customer_196,East,Odisha,Electronics,Headphones,10,37570,21501.61,16068.39
+ORD01125,2025-12-12,CUST0074,Customer_275,South,Tamil Nadu,Clothing,Jeans,2,4764,3587.09,1176.91
+ORD01126,2025-07-31,CUST0262,Customer_084,South,Karnataka,Home & Kitchen,Cookware Set,5,9390,7177.09,2212.91
+ORD01127,2025-09-10,CUST0127,Customer_040,West,Maharashtra,Furniture,Bookshelf,7,23828,13290.61,10537.39
+ORD01128,2024-12-03,CUST0046,Customer_186,East,West Bengal,Clothing,Jacket,2,9584,6440.78,3143.22
+ORD01129,2025-01-21,CUST0114,Customer_194,East,Odisha,Electronics,Headphones,4,10164,5620.28,4543.72
+ORD01130,2025-05-16,CUST0049,Customer_271,North,Delhi,Electronics,Headphones,9,25299,18383.47,6915.53
+ORD01131,2024-04-11,CUST0025,Customer_088,East,Bihar,Home & Kitchen,Mixer Grinder,5,24090,15208.41,8881.59
+ORD01132,2025-02-16,CUST0245,Customer_066,East,Odisha,Electronics,Headphones,6,27930,19983.96,7946.04
+ORD01133,2024-05-26,CUST0194,Customer_291,East,West Bengal,Home & Kitchen,Cookware Set,9,14157,10579.09,3577.91
+ORD01134,2025-03-04,CUST0235,Customer_094,East,West Bengal,Home & Kitchen,Water Bottle,6,14040,10578.64,3461.36
+ORD01135,2025-03-14,CUST0267,Customer_118,West,Gujarat,Clothing,Jeans,9,23841,15085.32,8755.68
+ORD01136,2024-04-02,CUST0041,Customer_040,East,Bihar,Electronics,Smartphone,5,18150,14178.3,3971.7
+ORD01137,2024-10-19,CUST0284,Customer_253,South,Karnataka,Electronics,Headphones,10,7700,4430.39,3269.61
+ORD01138,2025-06-11,CUST0273,Customer_064,North,Punjab,Home & Kitchen,Cookware Set,9,12753,8849.27,3903.73
+ORD01139,2025-12-20,CUST0274,Customer_177,West,Maharashtra,Home & Kitchen,Mixer Grinder,4,1436,1097.46,338.54
+ORD01140,2024-06-21,CUST0269,Customer_116,South,Telangana,Home & Kitchen,Cookware Set,9,5814,4257.08,1556.92
+ORD01141,2024-02-22,CUST0217,Customer_254,South,Karnataka,Furniture,Bookshelf,3,13524,8871.57,4652.43
+ORD01142,2024-09-12,CUST0277,Customer_061,West,Maharashtra,Furniture,Bookshelf,2,6136,5057.37,1078.63
+ORD01143,2025-10-08,CUST0292,Customer_202,East,Odisha,Clothing,Jeans,5,12340,7575.77,4764.23
+ORD01144,2025-09-24,CUST0250,Customer_030,South,Tamil Nadu,Home & Kitchen,Cookware Set,9,5310,4410.62,899.38
+ORD01145,2024-04-19,CUST0003,Customer_180,East,West Bengal,Home & Kitchen,Mixer Grinder,8,23928,15302.08,8625.92
+ORD01146,2024-07-21,CUST0044,Customer_271,South,Tamil Nadu,Furniture,Bookshelf,1,1130,767.54,362.46
+ORD01147,2025-11-03,CUST0129,Customer_116,South,Tamil Nadu,Electronics,Smartphone,8,2848,1699.37,1148.63
+ORD01148,2024-07-05,CUST0275,Customer_138,West,Gujarat,Furniture,Bookshelf,5,16425,11144.4,5280.6
+ORD01149,2025-03-20,CUST0003,Customer_184,North,Punjab,Home & Kitchen,Cookware Set,8,13000,7695.51,5304.49
+ORD01150,2025-03-07,CUST0170,Customer_017,South,Karnataka,Furniture,Office Chair,5,3145,1855.88,1289.12
+ORD01151,2025-05-15,CUST0282,Customer_254,South,Telangana,Furniture,Office Chair,8,19816,11605.0,8211.0
+ORD01152,2024-04-20,CUST0011,Customer_065,South,Tamil Nadu,Clothing,T-Shirt,9,31365,18487.32,12877.68
+ORD01153,2024-12-16,CUST0220,Customer_005,South,Tamil Nadu,Clothing,Jacket,1,2237,1265.27,971.73
+ORD01154,2025-03-15,CUST0127,Customer_079,West,Gujarat,Furniture,Desk,5,21400,12300.39,9099.61
+ORD01155,2024-09-10,CUST0220,Customer_102,South,Karnataka,Furniture,Desk,2,4916,4170.13,745.87
+ORD01156,2025-08-28,CUST0077,Customer_118,West,Rajasthan,Electronics,Smartphone,9,16056,9739.58,6316.42
+ORD01157,2024-05-29,CUST0219,Customer_010,North,Delhi,Clothing,T-Shirt,1,2543,2154.23,388.77
+ORD01158,2025-12-17,CUST0119,Customer_114,South,Karnataka,Electronics,Laptop,7,25452,18007.07,7444.93
+ORD01159,2024-02-22,CUST0156,Customer_057,East,Odisha,Clothing,Jeans,1,4476,3035.27,1440.73
+ORD01160,2024-02-18,CUST0094,Customer_021,East,Odisha,Furniture,Desk,6,22344,13944.68,8399.32
+ORD01161,2024-10-13,CUST0052,Customer_221,North,Delhi,Home & Kitchen,Cookware Set,6,12216,7764.43,4451.57
+ORD01162,2024-04-09,CUST0007,Customer_283,South,Tamil Nadu,Clothing,Jeans,6,18228,11689.74,6538.26
+ORD01163,2024-08-31,CUST0142,Customer_108,South,Tamil Nadu,Furniture,Bookshelf,6,27792,20327.46,7464.54
+ORD01164,2025-11-01,CUST0098,Customer_099,West,Maharashtra,Electronics,Smartphone,3,3855,2167.71,1687.29
+ORD01165,2025-04-30,CUST0104,Customer_274,West,Maharashtra,Electronics,Smartphone,9,27981,17920.23,10060.77
+ORD01166,2024-09-15,CUST0287,Customer_178,South,Karnataka,Electronics,Headphones,4,14900,10655.72,4244.28
+ORD01167,2025-03-05,CUST0269,Customer_258,East,Odisha,Home & Kitchen,Cookware Set,2,7744,4416.5,3327.5
+ORD01168,2025-08-02,CUST0032,Customer_098,North,Delhi,Home & Kitchen,Mixer Grinder,5,6780,4318.16,2461.84
+ORD01169,2024-06-18,CUST0225,Customer_261,West,Gujarat,Home & Kitchen,Cookware Set,9,40554,34124.63,6429.37
+ORD01170,2024-01-04,CUST0082,Customer_293,West,Rajasthan,Clothing,T-Shirt,7,17668,10814.18,6853.82
+ORD01171,2025-12-25,CUST0269,Customer_133,South,Telangana,Home & Kitchen,Water Bottle,1,4500,3089.85,1410.15
+ORD01172,2024-08-17,CUST0024,Customer_274,East,West Bengal,Furniture,Desk,5,24115,14124.9,9990.1
+ORD01173,2024-10-03,CUST0027,Customer_128,South,Tamil Nadu,Electronics,Laptop,3,7725,6397.65,1327.35
+ORD01174,2025-01-12,CUST0167,Customer_043,South,Telangana,Electronics,Smartphone,1,3146,2327.43,818.57
+ORD01175,2024-02-28,CUST0006,Customer_183,East,Bihar,Electronics,Headphones,7,19005,12303.66,6701.34
+ORD01176,2025-07-04,CUST0299,Customer_055,South,Telangana,Furniture,Desk,3,7191,6051.09,1139.91
+ORD01177,2025-03-28,CUST0113,Customer_167,West,Rajasthan,Furniture,Desk,10,48120,29442.11,18677.89
+ORD01178,2025-03-20,CUST0189,Customer_076,East,West Bengal,Home & Kitchen,Mixer Grinder,7,11025,7539.08,3485.92
+ORD01179,2024-06-29,CUST0097,Customer_292,West,Maharashtra,Clothing,Jeans,3,12189,7380.54,4808.46
+ORD01180,2024-06-30,CUST0202,Customer_097,West,Rajasthan,Electronics,Headphones,5,2360,1517.59,842.41
+ORD01181,2025-10-22,CUST0207,Customer_052,North,Delhi,Electronics,Smartphone,7,16163,11096.02,5066.98
+ORD01182,2024-01-22,CUST0057,Customer_007,South,Telangana,Electronics,Laptop,10,11160,7403.13,3756.87
+ORD01183,2025-10-04,CUST0007,Customer_005,North,Delhi,Furniture,Office Chair,2,4984,2954.47,2029.53
+ORD01184,2025-05-06,CUST0289,Customer_228,North,Haryana,Home & Kitchen,Water Bottle,6,5976,3649.52,2326.48
+ORD01185,2025-07-10,CUST0137,Customer_279,South,Tamil Nadu,Furniture,Bookshelf,8,12520,7801.75,4718.25
+ORD01186,2025-06-07,CUST0213,Customer_073,North,Delhi,Electronics,Laptop,2,9522,6084.76,3437.24
+ORD01187,2024-12-27,CUST0147,Customer_116,North,Delhi,Electronics,Laptop,4,15196,10114.68,5081.32
+ORD01188,2024-04-22,CUST0115,Customer_053,West,Rajasthan,Home & Kitchen,Water Bottle,2,8656,5201.11,3454.89
+ORD01189,2024-03-27,CUST0023,Customer_078,East,Odisha,Electronics,Smartphone,10,30330,17758.38,12571.62
+ORD01190,2024-06-02,CUST0155,Customer_147,South,Tamil Nadu,Clothing,Jacket,6,10710,8073.52,2636.48
+ORD01191,2025-12-29,CUST0040,Customer_002,East,West Bengal,Furniture,Desk,8,26584,22061.12,4522.88
+ORD01192,2025-05-04,CUST0035,Customer_058,South,Telangana,Electronics,Headphones,6,9060,6044.65,3015.35
+ORD01193,2024-05-10,CUST0094,Customer_198,West,Rajasthan,Furniture,Desk,3,3120,2018.38,1101.62
+ORD01194,2025-02-27,CUST0171,Customer_071,East,Odisha,Clothing,Jeans,7,29694,22508.83,7185.17
+ORD01195,2025-05-19,CUST0273,Customer_275,South,Tamil Nadu,Clothing,T-Shirt,9,39348,28000.99,11347.01
+ORD01196,2025-12-11,CUST0113,Customer_045,South,Tamil Nadu,Electronics,Smartphone,10,37550,26588.55,10961.45
+ORD01197,2025-04-30,CUST0069,Customer_057,South,Tamil Nadu,Electronics,Laptop,4,1760,1159.35,600.65
+ORD01198,2025-07-18,CUST0216,Customer_125,North,Punjab,Furniture,Bookshelf,3,8142,5602.64,2539.36
+ORD01199,2025-12-21,CUST0074,Customer_194,South,Karnataka,Electronics,Laptop,3,3780,3169.97,610.03
+ORD01200,2025-11-09,CUST0298,Customer_038,North,Haryana,Clothing,T-Shirt,6,4458,3389.95,1068.05
